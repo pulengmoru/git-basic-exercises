@@ -1,0 +1,2921 @@
+    1  upgrade_oh_my_zsh
+    2  git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
+    3  nano .zshrc
+    4  cd ..
+    5  ls -la
+    6  cd .local/share/fonts
+    7  cd $HOME/.local/share/fonts
+    8  wget https://github.com/source-foundry/Hack/releases/download/v3.003/Hack-v3.003-ttf.zip
+    9  ls
+   10  sudo wget https://github.com/source-foundry/Hack/releases/download/v3.003/Hack-v3.003-ttf.zip
+   11  sudo unzip Hack-v3.003-ttf.zip
+   12  ls
+   13  sudo cp ttf/* /usr/local/share/fonts
+   14  ls /usr/local/share/fonts
+   15  fc-che -f -v
+   16  $ fc-cache -f -v\n
+   17  cd recruit
+   18  cd ~
+   19  mkdir .local/share/fonts
+   20  sudo cp /home/ttf/* .local/share/fonts
+   21  nano .zshrc
+   22  source .zshrc
+   23  pwd
+   24  nano .zshrc
+   25  source .zshrc
+   26  nano .zshrc
+   27  source .zshrc
+   28  nano .zshrc
+   29  source .zshrc
+   30  nano .zshrc
+   31  POWERLEVEL9K_CUSTOM_FEDORA_ICON_FOREGROUND=015
+   32  nano .zshrc
+   33  source .zshrc
+   34  nano .zshrc
+   35  source .zshrc
+   36  chsh -s /usr/bin/zsh
+   37  nano .zshrc
+   38  source .zshrc
+   39  sudo reboot
+   40  sudo apt removee --purge zsh
+   41  sudo apt removee -purge zsh
+   42  sudo apt remove -purge zsh
+   43  sudo apt remove --purge zsh
+   44  sudo apt remove --purge oh-my-zsh
+   45  sudo reboot
+   46  source ~/.zshrc
+   47  git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+   48  ls
+   49  cd zsh-syntax-highlighting
+   50  ls
+   51  cd ..
+   52  echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
+   53  ^[[200~source ./zsh-syntax-highlighting/zsh-syntax-highlighting.zsh~
+   54  rm -rf zsh-syntax-highlighting
+   55  pwd
+   56  git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+   57  echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
+   58  source ./zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+   59  vim .zshrc
+   60  source ~/.zshrc
+   61  vim .zshrc
+   62  source ~/.zshrc
+   63  git clone https://github.com/zsh-users/zsh-syntax-highlighting
+   64  vim .zshrc
+   65  source ~/.zshrc
+   66  vim .zshrc
+   67  source ~/.zshrc
+   68  https://github.com/zsh-users/zsh-autosuggestions
+   69  git clone https://github.com/zsh-users/zsh-autosuggestions
+   70  vim .zshrc
+   71  cat ~/.zshrc
+   72  vim .zshrc
+   73  source ~/.zshrc
+   74  sudo apt-get install powerline fonts-powerline
+   75  whereis zsh
+   76  sudo usermod -s /usr/bin/zsh 
+   77  sudo usermod -s /usr/bin/zsh $(whoami)
+   78  cd umuzi_work/tdd
+   79  cd umuzi_work/node
+   80  cd ../nodeChallanges
+   81  open .
+   82  nano 
+   83  nano .zshrc
+   84  cat .bashrc
+   85  ls -la
+   86  source ~/.zshrc
+   87  open .
+   88  ls -la
+   89  pwd
+   90  cd umuzi_work/bowling
+   91  ls
+   92  git status
+   93  vim crontab -e
+   94  sudo vim crontab -e
+   95  sudo nano crontab -e
+   96  crontab -l
+   97  nano crontab -e
+   98  sudo nano crontab -e
+   99  nano crontab -e
+  100  crontab -l
+  101  nano crontab
+  102  sudo nano crontab
+  103  crontab -e
+  104  ls
+  105  rm crontab
+  106  crontab -e
+  107  pwd
+  108  cd .oh-my-zsh/themes
+  109  ls
+  110  cd agnoster.zsh-theme
+  111  vim agnoster.zsh-theme
+  112  cp -rf tmp/tddBowling umuzi_work/tddbowling
+  113  cd umuzi_work/tddbowling
+  114  ls
+  115  sublime app.js Player.js
+  116  nano .zshrc
+  117  nano ~/.zshrc
+  118  tmp
+  119  source ~/.zshrc
+  120  sublime app.js Player.js
+  121  cd 
+  122  ls
+  123  sublime
+  124  firedev
+  125  cd umuzi_work
+  126  ls
+  127  cd pplonthemove
+  128  ls
+  129  adb
+  130  ls -la
+  131  htop
+  132  htop --help
+  133  man htop
+  134  shutdown now
+  135  firedev
+  136  sublime
+  137  terminator
+  138  update
+  139  cd umuzi_work
+  140  pkill firefox
+  141  kill terminator
+  142  sudo kill terminator
+  143  htop
+  144  remove snapd
+  145  kill -9 4678 4677 4679
+  146  open umuzi_work/tddbowling
+  147  ls Desktop
+  148  ls ~/Downloads
+  149  ls
+  150  ls | grep LASTAPP
+  151  ls | grep Last
+  152  cd tmp
+  153  ls
+  154  cd LastApp/
+  155  node dev
+  156  node start
+  157  cat package.json
+  158  npm start
+  159  htop
+  160  pkill insomnia
+  161  ps -aux | grep insomnia
+  162  pkill node
+  163  cd ~/Downloads
+  164  rm LastApp.zip
+  165  ls | grep .zip
+  166  rm ddownr.zip
+  167  ls | grep .tar
+  168  ls
+  169  rm tor_0.3.5.8-1_amd64.deb
+  170  rm mongodb*
+  171  open .
+  172  ls
+  173  l
+  174  alias
+  175  cd umuzi_work/tddbowling
+  176  ls
+  177  vim .oh-my-zsh/themes/agnoster.zsh-theme/ agnoster.zsh-theme
+  178  vim .oh-my-zsh/themes/agnoster.zsh-theme/agnoster.zsh-theme
+  179  cd .oh-my-zsh/themes/agnoster.zsh-theme
+  180  cd ~/.oh-my-zsh/themes
+  181  ls
+  182  vim agnoster.zsh-theme
+  183  ls
+  184  vim .zshrc
+  185  pkill vim
+  186  vim .zshrc
+  187  ~
+  188  vim .zshrc
+  189  source
+  190  source ~/.zshrc
+  191  bash
+  192  cat ~/.zshrc
+  193  source ~/.zshrc
+  194  1
+  195  2
+  196  3
+  197  4
+  198  5
+  199  6clear
+  200  clear
+  201  cd ~/umuzi_work/tddbowling
+  202  vim app.js
+  203  shutdown now
+  204  update
+  205  sublime
+  206  cd ~/umuzi_work/tddbowling
+  207  ls -ls tmp
+  208  ls -ls
+  209  ls | grep .js
+  210  grep .js
+  211  cd tmp
+  212  touch index.js
+  213  vim index.js
+  214  cd umuzi_work/tdd
+  215  cat string-calculator
+  216  cd string-calculator
+  217  ls
+  218  cat stringCalculator.js
+  219  git status
+  220  rm ..zshrc.swp
+  221  git status
+  222  cd tmp
+  223  node index.js
+  224  ls
+  225  cat index.js
+  226  node index.js
+  227  open .
+  228  cd ../tdd
+  229  ls
+  230  cd ..
+  231  ls
+  232  cd bowling
+  233  ls
+  234  cat bowling
+  235  cat bowling.js
+  236  open .
+  237  cd ../bowling-refactor
+  238  touch index.html
+  239  sublime index.html
+  240  passwd
+  241  git status
+  242  git add .
+  243  git commit -m "added index.html"
+  244  alias | grep git
+  245  gp
+  246  rm .git
+  247  rm -rf .git
+  248  git status
+  249  git init
+  250  git clone https://github.com/sweetbeard30/bowling
+  251  cd bowling
+  252  cp -rf .git ~/umuzi_work/bowling/.git
+  253  ls -la
+  254  git add .
+  255  git commit -m "added index.html"
+  256  gp
+  257  git push
+  258  ls
+  259  git status
+  260  git diff
+  261  git push
+  262  git remote add  https://github.com/sweetbeard30/bowling.git
+  263  git remote add -m  https://github.com/sweetbeard30/bowling.git
+  264  git remote add origin  https://github.com/sweetbeard30/bowling.git
+  265  git status
+  266  git push -u origin master
+  267  open .
+  268  sudo cp -rf .git ~/umuzi_work/bowling/.git
+  269  ls -la
+  270  git status
+  271  git commit -m "test"
+  272  git push
+  273  git rm .git/
+  274  git rm -rf .git/
+  275  sudo rm -rf .git/
+  276  sudo cp -rf .git ~/umuzi_work/bowling/.git
+  277  ls -la
+  278  sudo cp -rf .git ~/umuzi_work/bowling-refactor/.git
+  279  ls -la
+  280  git status
+  281  git add .
+  282  sudo chown -R recruit:recruit .git/
+  283  git add .
+  284  git commit -m "test"
+  285  git push
+  286  rm -rf .git/
+  287  git init
+  288  git status
+  289  git add .
+  290  git commit -m "1st commit"
+  291  cd ..
+  292  git remote add origin https://github.com/SweetBeard30/bowling-refactor.git
+  293  git push 
+  294  git push --set-upstream origin master~
+  295  git push --set-upstream origin master
+  296  git status
+  297  git add .
+  298  git commit -m "2st commit"
+  299  gp
+  300  shutdown 
+  301  update
+  302  cd umuzi_work/bowling-refactor
+  303  sublime
+  304  git status
+  305  git diff
+  306  open umuzi_work
+  307  open .
+  308  open
+  309  cat '/home/recruit/umuzi_work/bowling/bowling.js' 
+  310  sudo rm -rf umuzi_work/bowling
+  311  gs
+  312  alias | grep git add
+  313  alias | grep add
+  314  alias | grep commit
+  315  gaa
+  316  gcmsg "3rd commit"
+  317  gp
+  318  torsocks ssh@185.100.87.189
+  319  torsocks curl 185.100.87.189
+  320  ping 185.100.87.189
+  321  cd umuzi_work
+  322  open .
+  323  cd umuzi_work/bowling-refactor
+  324  vim bowling.js
+  325  alias | grep diff
+  326  gd
+  327  shutdown now
+  328  te
+  329  terminator
+  330  update
+  331  cd umuzi_work/bowling-refactor
+  332  vim bowling.js
+  333  ls -la
+  334  rm .bowling.js.swp
+  335  vim bowling.js
+  336  vim bowlingSpec.js
+  337  pkill sublime
+  338  sublime
+  339  cd ~/tmp
+  340  vim index.html
+  341  ls
+  342  touch index.html
+  343  sublime 
+  344  sublime index.html
+  345  git add 
+  346  gaa
+  347  gcmsg "4rd commit"
+  348  git add .
+  349  gcmsg "5rd commit"
+  350  git push
+  351  gaa
+  352  gcmsg "5rd commit"
+  353  gp
+  354  shutdown now
+  355  update
+  356  cd umuzi_work/bowling-refactor
+  357  git status
+  358  rm .bowling.js.swp 
+  359  git status
+  360  git diff
+  361  cd ~/tmp
+  362  git clone https://github.com/sweetbeard30/node
+  363  cd node/weatherApp
+  364  sublime app.js views/weather.pug
+  365  yarn install
+  366  ls views
+  367  sublime  views/home.pug
+  368  sublime  views/results.pug
+  369  npm start
+  370  pkill node
+  371  npm start
+  372  pkill node
+  373  node app.js
+  374  pkill node
+  375  node app.js
+  376  update
+  377  cd umuzi_work/bowling-refactor
+  378  sublime
+  379  update
+  380  whereis sublime
+  381  pkill sublime
+  382  sublime
+  383  cd umuzi_work/bowling-refactor
+  384  gitadd .
+  385  git add .
+  386  git commit  -m "6th"
+  387  gp
+  388  git add .
+  389  git commit  -m "7th"
+  390  git push
+  391  shutdown now
+  392  terminator
+  393  sublime
+  394  cd umuzi_work/bowling-refactor
+  395  passw
+  396  passwd
+  397  gaa
+  398  gcmsg "8rd commit"
+  399  gp
+  400  shutdown now
+  401  sublime
+  402  terminator
+  403  cd umuzi_work/bowling-refactor
+  404  firedev
+  405  cd umuzi_work/bowling-refactor
+  406  sublime
+  407  ter
+  408  terminator
+  409  cd umuzi_work/bowling-refactor
+  410  firedev
+  411  cd umuzi_work/bowling-refactor
+  412  gaa
+  413  gcmsg "left for soccer"
+  414  gp
+  415  gaa
+  416  gcmsg "cameback from soccer"
+  417  gp
+  418  shutdown now
+  419  sublime
+  420  termin
+  421  terminator
+  422  firedev
+  423  cd umuzi_work/bowling-refactor
+  424  pkill persepolis
+  425  ifconfig
+  426  sublime
+  427  terminator
+  428  cd umuzi_work/bowling-refactor
+  429  firedev
+  430  pkill sublime
+  431  sublime
+  432  gaa
+  433  gcmsg "added rules"
+  434  gp
+  435  gaa
+  436  gcmsg "issue with rules function"
+  437  gp
+  438  gaa
+  439  gcmsg "issue with rules function2"
+  440  gp
+  441  shutdown now
+  442  sublime
+  443  terminator
+  444  update
+  445  cd tmp
+  446  torsocks wget https://github.com/ZcashFoundation/zecwallet/releases/download/0.7.0/linux-deb-zecwallet-v0.7.0.deb
+  447  sudo dpkg -i linux-deb-zecwallet-v0.7.0.deb
+  448  install -f
+  449  install openvpn
+  450  openvpn --version
+  451  openvpn
+  452  ps -aux | grep Zec
+  453  ps -aux | grep wallet
+  454  pkill zecwallet
+  455  sudo apt remove --purge zecwallet
+  456  ls -la
+  457  ls -la ~
+  458  sudo rm -rf .zcash*
+  459  ls -la ~
+  460  sudo rm -rf .zcash
+  461  ls -la ~
+  462  cd umuzi_work/bowling-refactor
+  463  update
+  464  sublime
+  465  pkill sublime
+  466  sublime
+  467  gaa
+  468  gcmsg "rules again :("
+  469  gp
+  470  gaa
+  471  gcmsg "rules again :("
+  472  gp
+  473  shutdown now
+  474  cd umuzi_work/bowling-refactor
+  475  cd ..
+  476  sudo rm -rf bowling-refactor/
+  477  git clone https://github.com/sweetbeard30/bowling-refactor
+  478  sublime
+  479  cd umuzi_work/bowling-refactor
+  480  cd umuzi_work/bowling-refactor
+  481  cd ~/
+  482  cd umuzi_work/bowling-refactor
+  483  cd ~/
+  484  node
+  485  cd umuzi_work/bowling-refactor
+  486  cd ~/
+  487  git clone https://github.com/sweetbeard30/node
+  488  git clone https://github.com/sweetbeard30/node.git
+  489  git clone https://github.com/sweetbeard30/node
+  490  cd ~/
+  491  git clone https://github.com/sweetbeard30/node
+  492  git clone https://github.com/sweetbeard30/node.git
+  493  pwd
+  494  cd tmp
+  495  pwd
+  496  cd tmp
+  497  git clone https://github.com/sweetbeard30/node.git
+  498  git clone https://github.com/sweetbeard30/node.git
+  499  cd node/weatherApp
+  500  npm start
+  501  cd tmp
+  502  git clone https://github.com/sweetbeard30/node.git
+  503  cd node/weatherApp
+  504  npm start
+  505  pkill node
+  506  cd tmp/node/nodeForms
+  507  npm start
+  508  ls
+  509  cat app.js
+  510  node start
+  511  yarn install
+  512  node start
+  513  node app.js
+  514  yarn install
+  515  npm start
+  516  pkill node
+  517  pkill sublime
+  518  sublime
+  519  cd umuzi_work/node
+  520  cd umuzi_work/
+  521  ls
+  522  cd nodeChallanges
+  523  cd weatherApp
+  524  cat app.js
+  525  sublime app.js
+  526  opn .
+  527  open .
+  528  sublime style.css views/home.pug views/results.pug
+  529  npm start
+  530  pkill node
+  531  sublime package.json
+  532  npm start
+  533  node app.js
+  534  pkill node
+  535  cd umuzi_work/nodeChallanges
+  536  cp -rf MVP task1
+  537  cp -rf nodeForms task2
+  538  ls
+  539  git rm -rf MVP/ nodeForms/
+  540  git status
+  541  git add .
+  542  nan weatherApp/package.json
+  543  nano weatherApp/package.json
+  544  nano task2/package.json
+  545  ls ..
+  546  cd ..
+  547  ls
+  548  cd ..
+  549  ls
+  550  git rm -rf 
+  551  git rm -rf MVP/ nodeForms/
+  552  rm -rf MVP nodeForms
+  553  sudo rm -rf MVP nodeForms
+  554  ls
+  555  git add .
+  556  git commit  -m "renamed folders"
+  557  gp
+  558  clear
+  559  lsclear
+  560  clear
+  561  cd ~/umuzi_work/nodeChallanges
+  562  cd weatherApp
+  563  cd task2`
+  564  cd task2
+  565  clear
+  566  node app.js
+  567  cd ..
+  568  cd umuzi_work/nodeChallanges
+  569  cd ~/umuzi_work/nodeChallanges
+  570  ls
+  571  open .
+  572  cd ~/umuzi_work/nodeChallanges
+  573  nodecd ~/
+  574  cd ~/umuzi_work/nodeChallanges
+  575  cd ~/umuzi_work/nodeChallanges
+  576  ls
+  577  git list
+  578  git rm -rf task1 task2 task4 weatherApp
+  579  git add .
+  580  git commit  -m "renamed folders"
+  581  git push
+  582  ls
+  583  cd "task1:memory_game "
+  584  node app.js
+  585  open .
+  586  node app.js
+  587  yarn install
+  588  node app.js
+  589  cat app.js
+  590  node index.js
+  591  npm i
+  592  node index.js
+  593  sublime index.js
+  594  npm install
+  595  yarn install
+  596  yarn install express
+  597  yarn add express --dev
+  598  node index.js
+  599  yarn add open --dev
+  600  node index.js
+  601  cd ..
+  602  cd task2:node_form
+  603  cat package.json
+  604  ld node_modules
+  605  ls node_modules
+  606  node app.js
+  607  cd task3
+  608  cd task3:weatherApp
+  609  cat package.json
+  610  node app.js
+  611  kill -9 10990
+  612  node app.js
+  613  cd task4:api
+  614  npm start
+  615  nano package.json
+  616  npm start
+  617  cat app.js
+  618  crontab -e
+  619  nano package.json
+  620  node app.js
+  621  cd umuzi_work/nodeChallanges
+  622  cat task2:node_form/app.js
+  623  gaa
+  624  gcmsg "remove nmp start"
+  625  cd umuzi_work/nodeChallanges/task3:weatherApp
+  626  ls
+  627  git rm weather.js
+  628  git rm views/about.pug
+  629  git add .
+  630  gcmsg "removed empty weather.js file"
+  631  cd ..
+  632  git rm -rf task4:api/cd
+  633  git status
+  634  git push
+  635  node app.js
+  636  ps -aux | grep insomnia
+  637  h
+  638  htop
+  639  echo "deb https://dl.bintray.com/getinsomnia/Insomnia /" \\n    | sudo tee -a /etc/apt/sources.list.d/insomnia.list
+  640  wget --quiet -O - https://insomnia.rest/keys/debian-public.key.asc \\n    | sudo apt-key add -
+  641  update
+  642  install insomnia
+  643  whereis insomnia
+  644  cd /usr/local/bin/insomnia
+  645  cd /usr/local/bin/
+  646  ls
+  647  ./insomnia
+  648  sudo npm i -g lite-server
+  649  cd umuzi_work/bowling-refactor
+  650  lite-server
+  651  clear
+  652  node app.js
+  653  ls
+  654  node index.js
+  655  node app.js
+  656  open .
+  657  touch README.md
+  658  sublime README.md
+  659  gaa
+  660  git status
+  661  gcmsg "added readme file and renamed routes in app,js"
+  662  git push
+  663  cd ~/tmp
+  664  git clone https://github.com/Wonder13oy/TenPinBowling.git
+  665  cd TenPinBowling
+  666  l
+  667  firedev game.html
+  668  cd ~/umuzi_work/bowling-refactor
+  669  gaa
+  670  gcmsg "gameover"
+  671  gp
+  672  shutdown now
+  673  update
+  674  cd ~/umuzi_work/bowling-refactor
+  675  cd ~/umuzi_work/bowling-refactor
+  676  sublime .
+  677  lite-server
+  678  cd ~/umuzi_work/bowling-refactor
+  679  ps -aux | grep files
+  680  cd ~/tmp
+  681  git clone https://github.com/SweetBeard30/string-calculator
+  682  cd string-calculator
+  683  firedev testRunner.html
+  684  sublime stringCalculatorSpec.js
+  685  sublime stringCalculator.js
+  686  ls
+  687  sfiredev testRunner.html
+  688  firedev testRunner.html
+  689  clear
+  690  yarn install \n
+  691  ls
+  692  ls node_modules
+  693  npm install
+  694  ls node_modules
+  695  cd ../code
+  696  yarn install \n
+  697  cat package.json
+  698  npm test
+  699  yarn add request --dev\n
+  700  cat app.js
+  701  npm test
+  702  cat package.json
+  703  npm test
+  704  pkill node
+  705  kill firefox
+  706  pkill firefox
+  707  shutdown now
+  708  cd ~/umuzi_work/bowling-refactor
+  709  update
+  710  cd umuzi_work/bowling-refactor
+  711  sublime
+  712  lite-server
+  713  cd tmp
+  714  cd ~/tmp
+  715  git clone https://github.com/Wonder13oy/TenPinBowling
+  716  cd TenPinBowling
+  717  ls
+  718  firedev game.html
+  719  cd umuzi_work/bowling-refactor
+  720  git add .
+  721  gcmsg "gameover"
+  722  git push
+  723  -+
+  724  vim app.js
+  725  cd umuzi_work/bowling-refactor
+  726  cd umuzi_work/bowling-refactor
+  727  lite-server
+  728  pkill sublime
+  729  sublime
+  730  ls
+  731  sublime bowlingSpec.js
+  732  sublime testRunner.html
+  733  git add .
+  734  gcmsg "refactor"
+  735  gp
+  736  git add .
+  737  gcmsg "refactor2"
+  738  gp
+  739  shutdown now
+  740  cd umuzi_work/bowling-refactor
+  741  cd umuzi_work/bowling-refactor
+  742  update
+  743  cd umuzi_work/bowling-refactor
+  744  cd tmp
+  745  ls
+  746  zip -r cmd cmd-
+  747  mv cmd-/ cmd2
+  748  ls
+  749  unzip cmd.zip
+  750  ls
+  751  ssh@89.47.162.244
+  752  lite-server
+  753  ssh root@89.47.162.244
+  754  cd tmp
+  755  ssh root@89.47.162.24
+  756  ssh root@89.47.162.244
+  757  cd /etc/nginx
+  758  ls
+  759  cd tmp
+  760  git clone https://github.com/sweetbeard30/bowling-refactor
+  761  cd bowling-refactor
+  762  lite-server
+  763  cd tmp/bowling-refactor
+  764  nano bowling.js
+  765  vim bowling.js
+  766  cd ..
+  767  git clone https://github.cohttps://github.com/SweetBeard30/bowling-refactor.gitm/SweetBeard30/bowling-refactor/tree/dd630ee6328d5a728f5335f34c190ea7e0b2e06f
+  768  git clone https://github.com/SweetBeard30/bowling-refactor/tree/dd630ee6328d5a728f5335f34c190ea7e0b2e06f
+  769  cd bowling-refactor
+  770  open .
+  771  sublime .
+  772  sudo rm -rf .git
+  773  git init
+  774  sudo rm -rf .git
+  775  git init
+  776  git add .
+  777  git commit  -m "upload"
+  778  gp
+  779  git remote add origin https://github.com/SweetBeard30/bowling-refactor.git\ngit push -u origin master
+  780  pkill Android-studio
+  781  cd..
+  782  cd ..
+  783  git clone https://github.com/SweetBeard30/node
+  784  ls
+  785  htop
+  786  cd ~/umuzi_work/nodeChallanges
+  787  cd ..
+  788  git clone https://github.com/SweetBeard30/node.git node-refactor
+  789  cd node-refactor
+  790  cd task4:api
+  791  ls
+  792  node app.js
+  793  yarn install
+  794  node app.js
+  795  open .
+  796  mkdir app docs migrations tests lib
+  797  ls
+  798  cd app
+  799  mkdir actions helpers middlewares routes tasks utils db
+  800  touch server.js tasks.js
+  801  gaa
+  802  gcmsg "refactor"
+  803  gp
+  804  shutdown now
+  805  sublime
+  806  firedev
+  807  update
+  808  cd umuzi_work/bowling-refactor
+  809  cd umuzi_work/bowling-refactor
+  810  cd ~
+  811  cd umuzi_work/bowling-refactor
+  812  ~
+  813  cd ~/tm
+  814  cd tm
+  815  cd tmcd tmp
+  816  cd tmp
+  817  clear
+  818  git clone https://github.com/TheBlaqHulk/NodeJSchallenges
+  819  cd NodeJSchallenges
+  820  node app.js
+  821  yarn install
+  822  cat 
+  823  cat package.json
+  824  ls
+  825  cd Task_4
+  826  ls
+  827  yarn install
+  828  node app.js
+  829  open ~/tmp/NodeJSchallenges/Task_4
+  830  cd ~/tmp/NodeJSchallenges/Task_4 
+  831  nano router/posts.js
+  832  cat router/posts.js
+  833  nano router/posts.js
+  834  node app.js
+  835  clear
+  836  cd umuzi_work
+  837  ls
+  838  rm ngx-admin
+  839  rm -rf ngx-admin
+  840  sudo rm -rf ngx-admin
+  841  ls
+  842  ls pplonthemove
+  843  sudo rm -rf  pplonthemove 
+  844  ls
+  845  sudo cp -rf nodeChallanges node-recfactorII
+  846  clear
+  847  cd ~/umuzi_work/node-recfactorII
+  848  cd ~/umuzi_work/node-recfactorII
+  849  git diff
+  850  ls
+  851  clear
+  852  cd ~/umuzi_work/node-recfactorII
+  853  cd task4:api
+  854  cd task4:api
+  855  ls
+  856  mkdir routes
+  857  sudo chown -R recruit:recruit pwd
+  858  sudo chown -R recruit:recruit ../task4:api
+  859  mkdir routes
+  860  ls
+  861  cd routes && touch index.js
+  862  ls
+  863  clear
+  864  cd ~/umuzi_work/node-recfactorII
+  865  cd umuzi_work/
+  866  cd ~/umuzi_work/
+  867  cd pingpong
+  868  ls
+  869  touch sumOfEvenNum.js
+  870  ls
+  871  clear
+  872  open .
+  873  ls
+  874  vim testRunner.html
+  875  s
+  876  ls
+  877  nano testRunner.html
+  878  cat testRunner.html
+  879  firedev testRunner.html
+  880  sublime sumOfEvenNum.js
+  881  ls
+  882  mkdir 1stproject
+  883  clear
+  884  cdclea
+  885  cd task4:api
+  886  ls
+  887  sublime app.js
+  888  cd ..
+  889  cd task3:weatherApp
+  890  ls
+  891  sublime app.js
+  892  sublime views/results.pug
+  893  sublime views/home.pug
+  894  ls
+  895  sublime index.js
+  896  sublime app.js
+  897  sublime ../server,js
+  898  sublime ../server.js
+  899  sudo ls -la ../..
+  900  sudo chown -R recruit:recruit ~/umuzi_work/node-recfactorII
+  901  sudo chown -R 755 ~/umuzi_work/node-recfactorII
+  902  ls
+  903  sublime ../server.js
+  904  touch ../server.js
+  905  cd ..
+  906  ls -la
+  907  ls -la ..
+  908  cd ..
+  909  ls -la ..
+  910  sudo chmod -R 755 ~/umuzi_work/node-recfactorII
+  911  sudo chown -R recruit:recruit  ~/umuzi_work/node-recfactorII
+  912  clear
+  913  ls -la ..
+  914  ls -la
+  915  clear
+  916  ls
+  917  cd task4:api
+  918  ls
+  919  touch server.js
+  920  ls
+  921  sublime app.js
+  922  ls
+  923  touch routes/makeProspect
+  924  touch routes/deleteAllProspects
+  925  touch routes/deleteProspectById.js
+  926  touch routes/deleteAllProspects.js
+  927  touch routes/viewAllProspects.js
+  928  touch routes/viewProspectById.js
+  929  rm  routes/deleteAllProspects
+  930  ls routes
+  931  rm  routes/makeProspect
+  932  touch  routes/makeProspect.js
+  933  ls routes
+  934  touch  routes/updateProspectById.js
+  935  cd routes
+  936  cat index.js >> deleteAllProspects.js deleteProspectById.js makeProspect.js  viewAllProspects.js viewProspectById.js
+  937  cat viewProspectById.js
+  938  cat deleteAllProspects.js
+  939  sublime deleteAllProspects.js deleteProspectById.js makeProspect.js  viewAllProspects.js viewProspectById.js updateProspectById.js
+  940  cd ..
+  941  ls
+  942  mkdir controllers
+  943  cd controllers
+  944  touch deleteAllProspects.js deleteProspectById.js makeProspect.js  viewAllProspects.js viewProspectById.js updateProspectById.js
+  945  ls
+  946  cd .. && mkdir models && cd models && touch deleteAllProspects.js deleteProspectById.js makeProspect.js  viewAllProspects.js viewProspectById.js updateProspectById.js
+  947  ls
+  948  pwd
+  949  cd ..
+  950  rm models/*
+  951  ls models
+  952  touch models/prospects.js
+  953  ls
+  954  cd controllers
+  955  sublime *
+  956  cd ..
+  957  sublime models/prospects.js
+  958  sublime server.js
+  959  cd controllers
+  960  cat deleteAllProspects.js >> makeProspect.js
+  961  cat makeProspect.js
+  962  cat deleteAllProspects.js >> deleteProspectById.js updateProspectById.js
+  963  cat updateProspectById.js
+  964  cat deleteProspectById.js
+  965  cat deleteAllProspects.js >> viewProspectById.js
+  966  cat deleteAllProspects.js >> viewAllProspects.js
+  967  cd ..
+  968  git add .
+  969  gcmsg "refactor"
+  970  gp
+  971  zip -r task4.zip ../task4:api
+  972  open 
+  973  open .
+  974  shutdown now
+  975  clear
+  976  clear
+  977  cd umuzi_work/node-recfactorII
+  978  ld
+  979  ls
+  980  git add .
+  981  git commit  -m "upload"
+  982  git push
+  983  ls
+  984  cd ~/tmp
+  985  git clone https://github.com/SweetBeard30/node
+  986  cd node/
+  987  ls
+  988  ls task4:api
+  989  shutdown now
+  990  update
+  991  sublime
+  992  update
+  993  cd umuzi_work/node-recfactorII
+  994  cd umuzi_work/node-recfactorII
+  995  git pull
+  996  cd umuzi_work/node-recfactorII
+  997  cd umuzi_work/node-recfactorII
+  998  git pull
+  999  git push
+ 1000  git pull
+ 1001  git status
+ 1002  git add .
+ 1003  git commit  -m "removed empty var from server.js"
+ 1004  git rm -rf task4:api/app/
+ 1005  git add .
+ 1006  git commit  -m "removed app folder recursively"
+ 1007  cat package.json
+ 1008  cd task4:api
+ 1009  cat package.json
+ 1010  nano package.json
+ 1011  nodemon -v
+ 1012  yarn add forever --dev
+ 1013  ls node_modules/forever
+ 1014  ls node_modules/forever/bin
+ 1015  cat node_modules/forever/bin/forever
+ 1016  open .
+ 1017  forever -v
+ 1018  npm i -g forever
+ 1019  nano package.json
+ 1020  cat package.json
+ 1021  forever -h
+ 1022  npm start
+ 1023  forever --list
+ 1024  forever list
+ 1025  cat task4:api
+ 1026  cat task4:api/package.json
+ 1027  cat task4:api/app.js
+ 1028  forever stopall
+ 1029  nano package.json
+ 1030  alias | grep xampp
+ 1031  node app.js
+ 1032  nodemon app.js
+ 1033  cd task4:api
+ 1034  nano package.json
+ 1035  nano app.js
+ 1036  clear
+ 1037  mv controllers/makeProspect.js controllers/createProspect.js
+ 1038  open controllers/createProspect.js
+ 1039  mv routes/makeProspect.js routes/createProspect.js
+ 1040  open  routes/createProspect.js
+ 1041  mv controllers/createProspect.js controllers/addNewProspect.js
+ 1042  mv routes/addNewProspect.js routes/addNewProspect.js
+ 1043  mv routes/createProspect.js routes/addNewProspect.js
+ 1044  open routes/addNewProspect.js
+ 1045  open controllers/addNewProspect.js
+ 1046  node server.js
+ 1047  ls routes/addNewProspect.js
+ 1048  node server.js
+ 1049  nodemon server.js
+ 1050  git status
+ 1051  gaa
+ 1052  git status
+ 1053  gcmsg "fragmenting"
+ 1054  gp
+ 1055  clear
+ 1056  gaa
+ 1057  gcmsg "fragmenting2"
+ 1058  gp
+ 1059  git status
+ 1060  gaa
+ 1061  gcmsg "fragmenting3"
+ 1062  gp
+ 1063  ls
+ 1064  cd task4:api
+ 1065  ls
+ 1066  rm app.js
+ 1067  git rm app.js
+ 1068  git status
+ 1069  gcmsg "removed app.js"
+ 1070  git push
+ 1071  cd ..
+ 1072  sublime README.md
+ 1073  gaa && gcmsg "readme"
+ 1074  gp
+ 1075  gaa && gcmsg "readme"
+ 1076  git status
+ 1077  gaa && gcmsg "readme"
+ 1078  gp
+ 1079  git pull
+ 1080  git status
+ 1081  gp
+ 1082  shutdown now
+ 1083  update
+ 1084  cd tmp
+ 1085  git clone https://github.com/BoART96/stringCalculator
+ 1086  cd stringCalculator
+ 1087  cd umuzi_work/node-recfactorII
+ 1088  ls
+ 1089  git rm  -rf node_modules/
+ 1090  ls
+ 1091  cat README.md
+ 1092  ls task1:memory_game
+ 1093  ls
+ 1094  mv "task1:memory_game " task1:memory_game
+ 1095  ls
+ 1096  rm task1:memory_gameREADME.md
+ 1097  git rm -rf "task1:memory_game "
+ 1098  pkill git
+ 1099  git rm -rf "task1:memory_game "
+ 1100  git pull
+ 1101  rm -f .git/index.lock
+ 1102  git rm -rf "task1:memory_game "
+ 1103  git rm -rf node_modules/
+ 1104  git pull
+ 1105  cd umuzi_work
+ 1106  ls
+ 1107  rm -rf node-refactor
+ 1108  cd nodeChallanges
+ 1109  git pull
+ 1110  cat task4:api/package.json.save
+ 1111  rm task4:api/package.json.save
+ 1112  git pull
+ 1113  ls
+ 1114  gaa
+ 1115  gcmsg "ranamed task1"
+ 1116  gp 
+ 1117  git pull
+ 1118  ls
+ 1119  git rm -rf 'task1:memory_game '
+ 1120  ls
+ 1121  rm -rf 'task1:memory_game '
+ 1122  ls
+ 1123  git rm -rf 'task1:memory_game '
+ 1124  git status
+ 1125  cd ..
+ 1126  la
+ 1127  ls
+ 1128  la
+ 1129  cd node-recfactorII
+ 1130  cd task1:memory_game
+ 1131  ls
+ 1132  ls node_modules
+ 1133  ls
+ 1134  ls node_modules
+ 1135  git rm -rf node_modules/
+ 1136  clear
+ 1137  alias | grep clear
+ 1138  echo "alias clr ='clear'" >> .bashrc
+ 1139  source .bashrc
+ 1140  clr
+ 1141  clear
+ 1142  nano .bashrc
+ 1143  source .bashrc
+ 1144  nano .bashrc
+ 1145  source .bashrc
+ 1146  zsh
+ 1147  nano .zshrc
+ 1148  source .zshrc
+ 1149  clr
+ 1150  source ~/.zshrc
+ 1151  sublime README.md
+ 1152  sublime ../README.md
+ 1153  sublime ../task2:node_form/README.md
+ 1154  sublime ../task3:weatherApp/README.md
+ 1155  sublime ../task4:api/README.md
+ 1156  free -h
+ 1157  swapon
+ 1158  sudo dd if=/dev/zero of=/swapfile bs=1M count=$(($SIZE * 1024))\nsudo chmod 0600 /swapfile\nsudo mkswap /swapfile\nsudo sed -i '/swap/{s/^/#/}' /etc/fstab\nsudo tee -a /etc/fstab<<<"/swapfile  none  swap  sw 0  0"
+ 1159  sublime ../task2:node_form/README.md
+ 1160  cd ..
+ 1161  git status
+ 1162  gaa
+ 1163  gcmsg "added Readme files in all projects folders"
+ 1164  gp
+ 1165  gaa && gcmsg "lame attempt at markdown"
+ 1166  gp
+ 1167  gaa && gcmsg "lame attempt at markdown2"
+ 1168  gp
+ 1169  gaa && gcmsg "lame attempt at markdown3"
+ 1170  git push
+ 1171  cd umuzi_work/node-recfactorII
+ 1172  pkill sublime
+ 1173  gaa && gcmsg "lame attempt at markdown4" && gp
+ 1174  gaa && gcmsg "lame attempt at markdown5" && gp
+ 1175  gaa && gcmsg "lame attempt at markdown6" && gp
+ 1176  gaa && gcmsg "lame attempt at markdown7" && gp
+ 1177  gaa && gcmsg "lame attempt at markdown8" && gp
+ 1178  gaa && gcmsg "lame attempt at markdown9" && gp
+ 1179  gaa && gcmsg "lame attempt at markdown10" && gp
+ 1180  gaa && gcmsg "lame attempt at markdown11" && gp
+ 1181  cd umuzi_work/node-recfactorII
+ 1182  ls
+ 1183  gaa && gcmsg "lame attempt at markdown11" && gp
+ 1184  gaa && gcmsg "lame attempt at markdown12" && gp
+ 1185  gaa && gcmsg "lame attempt at markdown13" && gp
+ 1186  cd ~/tmp
+ 1187  git clone https://github.com/BoART96/stringCalculator
+ 1188  cd stringCalculator
+ 1189  ls
+ 1190  sublime Calculator.js CalculatorSpec.js
+ 1191  firedev testRunner.html
+ 1192  sublime testRunner.html
+ 1193  zip -r stringcalculator.zip ../stringCalculator
+ 1194  open .
+ 1195  gaa && gcmsg "lame attempt at markdown14" && gp
+ 1196  shutdown now
+ 1197  update
+ 1198  cd umuzi_work/node-recfactorII
+ 1199  ls
+ 1200  gaa && gcmsg "lame attempt at markdown15" && gp
+ 1201  gp
+ 1202  gaa && gcmsg "lame attempt at markdown15" && gp
+ 1203  gaa && gcmsg "lame attempt at markdown16" && gp
+ 1204  cd task1:memory_game
+ 1205  vim package.json
+ 1206  cd umuzi_work/node-recfactorII
+ 1207  cd task1:memory_game
+ 1208  cat package.json
+ 1209  npm dev
+ 1210  npm test
+ 1211  clr
+ 1212  npm dev
+ 1213  gaa && gcmsg "lame attempt at markdown16" && gp
+ 1214  cd umuzi_work/node-recfactorII
+ 1215  gaa && gcmsg "lame attempt at markdown16" && gp
+ 1216  gaa && gcmsg "lame attempt at markdown17" && gp
+ 1217  ls tas
+ 1218  cd task1:memory_game
+ 1219  ls
+ 1220  git rm ]
+ 1221  gaa && gcmsg "lame attempt at markdown18" && gp
+ 1222  la
+ 1223  nano .zshrc
+ 1224  server
+ 1225  source .zshrc
+ 1226  server
+ 1227  nano .zshrc
+ 1228  source .zshrc
+ 1229  server
+ 1230  nano .zshrc
+ 1231  source .zshrc
+ 1232  server
+ 1233  source ~/.zshrc
+ 1234  source .zshrc
+ 1235  server
+ 1236  cat package.json
+ 1237  clear
+ 1238  sudo mysql -u root -p
+ 1239  creacreate database exit
+ 1240  clear
+ 1241  exit
+ 1242  clr
+ 1243  sudo pm-hibernate
+ 1244  sudo -i
+ 1245  cd /etc/polkit-1/localauthority/50-local.d
+ 1246  sudo -i
+ 1247  nano .zshrc
+ 1248  clr
+ 1249  server
+ 1250  nginx -v
+ 1251  cat /etc/nginx/sites-available/default
+ 1252  server
+ 1253  nginx -v
+ 1254  server
+ 1255  clr
+ 1256  clear
+ 1257  server
+ 1258  server
+ 1259  clr
+ 1260  server
+ 1261  server
+ 1262  clr
+ 1263  server
+ 1264  cat .bashrc
+ 1265  install sftpclient
+ 1266  sudo snap install sftpclient
+ 1267  install snapd
+ 1268  sudo snap install sftpclient
+ 1269  sudo snap install filezilla --edge
+ 1270  snap run filezilla
+ 1271  snap run sftpclient
+ 1272  snap list
+ 1273  sudo i
+ 1274  cat /etc/fstab
+ 1275  xed admin:///etc/default/grub
+ 1276  sudo update-grub
+ 1277  nano  admin:///etc/polkit-1/localauthority/50-local.d/com.ubuntu.enable-hibernate.pkla~
+ 1278  sudo nano  admin:///etc/polkit-1/localauthority/50-local.d/com.ubuntu.enable-hibernate.pkla~
+ 1279  sudo touch /etc/polkit-1/localauthority/50-local.d/com.ubuntu.enable-hibernate.pkla
+ 1280  sudo nano admin:///etc/polkit-1/localauthority/50-local.d/com.ubuntu.enable-hibernate.pkla
+ 1281  sudo i
+ 1282  sudo
+ 1283  sudo -i
+ 1284  sudo systemctl hibernate
+ 1285  sudo -i
+ 1286  nano  admin:///etc/default/grub
+ 1287  nano  /etc/default/grub
+ 1288  server
+ 1289  sudo swapoff -a
+ 1290  sudo -i
+ 1291  sudo swapoff -a
+ 1292  sudo dd if=/dev/zero of=/swapfile bs=9G count=8~
+ 1293  sudo dd if=/dev/zero of=/swapfile bs=9G count=8
+ 1294  sudo dd if=/dev/zero of=/swapfile bs=8G count=8
+ 1295  sudo dd if=/dev/zero of=/swapfile bs=1G count=8
+ 1296  sudo dd if=/dev/zero of=/swapfile bs=5G count=8
+ 1297  sudo dd if=/dev/zero of=/swapfile bs=4G count=8
+ 1298  sudo dd if=/dev/zero of=/swapfile bs=3G count=8
+ 1299  sudo dd if=/dev/zero of=/swapfile bs=2G count=8
+ 1300  sudo dd if=/dev/zero of=/swapfile bs=1M count=5024 oflag=append conv=notrunc
+ 1301  sudo mkswap /swapfile
+ 1302  sudo swapon /swapfile
+ 1303  grep SwapTotal /proc/meminfo
+ 1304  systemctl hibernate
+ 1305  update
+ 1306  sudo nano /etc/polkit-1/localauthority/50-local.d/com.ubuntu.enable-hibernate.pkla
+ 1307  sudo nano /etc/default/grub
+ 1308  sudo nano /etc/fstab
+ 1309  sudo update-grub
+ 1310  sudo nano /etc/default/grub
+ 1311  sudo nano /etc/fstab
+ 1312  server
+ 1313  sudo nano /etc/fstab
+ 1314  clr
+ 1315  server
+ 1316  clr
+ 1317  systemctl hibernate
+ 1318  update
+ 1319  cd /media/recruit/TOSHIBA/MEMORY-GAME
+ 1320  open .
+ 1321  sublime
+ 1322  ls
+ 1323  sublime app.js app.css index.html appSpec.js
+ 1324  lite-server
+ 1325  server
+ 1326  serveer
+ 1327  server
+ 1328  cd ..
+ 1329  ls
+ 1330  zip -r memorygame.zip MEMORY-GAME
+ 1331  open .
+ 1332  server
+ 1333  sudo cp -rf /home/recruit/Downloads/"Microsoft Office Pro Plus 2019 16.0.10325.20118 + Visio Pro + Project Pro (x64+x86) English + Activator [CracksMind]" "Microsoft Office"/
+ 1334  shutdown now
+ 1335  cd umuzi_work
+ 1336  ls
+ 1337  mkdir memory-game
+ 1338  cd memory-game
+ 1339  cd umuzi_work
+ 1340  git init
+ 1341  update
+ 1342  sudo cp -rf /home/recruit/Downloads/"Microsoft Office Pro Plus 2019 16.0.10325.20118 + Visio Pro + Project Pro (x64+x86) English + Activator [CracksMind]" "Microsoft Office"/
+ 1343  cp -h
+ 1344  cp --help
+ 1345  sudo npm -g update
+ 1346  sudo npm -g install forever pm2
+ 1347  clr
+ 1348  clr
+ 1349  touch tmp/app.js
+ 1350  touch ~/tmp/app.js
+ 1351  mkdir wget && cd wget && wget -m -np  http://crid.co.uk
+ 1352  sudo cp -rf /home/recruit/Downloads/"Microsoft Office Pro Plus 2019 16.0.10325.20118 + Visio Pro + Project Pro (x64+x86) English + Activator [CracksMind]" "Microsoft Office"/
+ 1353  la
+ 1354  cd crid.co.uk
+ 1355  ls
+ 1356  open .
+ 1357  firedev index.html
+ 1358  zip -r cmd.zip ../crid.co.uk
+ 1359  ls
+ 1360  la
+ 1361  du --max-depth=1 -h
+ 1362  du --max-depth=1000 -h
+ 1363  clr
+ 1364  ls
+ 1365  cp cmd.zip /media/recruit/TOSHIBA
+ 1366  ng init
+ 1367  clr
+ 1368  ng help
+ 1369  cd ..
+ 1370  ls
+ 1371  ng new memory-game
+ 1372  sudo ng new memory-game
+ 1373  cd memory-game
+ 1374  la
+ 1375  sudo rm -rf  angular.json
+ 1376  sudo rm -rf browserslist
+ 1377  open .
+ 1378  la
+ 1379  sudo ng new ../memory-game
+ 1380  ls
+ 1381  la
+ 1382  cd ..
+ 1383  sudo ng new memory-game
+ 1384  rm memory-game/.gitignore
+ 1385  rm memory-game/.editorconfig
+ 1386  sudo ng new memory-game
+ 1387  update
+ 1388  sublime
+ 1389  firedev
+ 1390  clr
+ 1391  cd umuzi_work/memory-game
+ 1392  clr
+ 1393  clr
+ 1394  cd umuzi_work/memory-game
+ 1395  clr
+ 1396  cd umuzi_work/memory-game
+ 1397  open .
+ 1398  sudo rm -rf -p .git .../.git
+ 1399  sudo rm -rf -p .git ../.git
+ 1400  sudo rm -rf -p .git ../git
+ 1401  sudo rm -rfp .git ../.git
+ 1402  sudo cp -rfp .git ../.git
+ 1403  la ../
+ 1404  sudo rm -rf *
+ 1405  la
+ 1406  sudo rm .editorconfig
+ 1407  sudo rm .gitignore
+ 1408  sudo rm -rf ../.git
+ 1409  cd umuzi_work/memory-game
+ 1410  la
+ 1411  la
+ 1412  sudo chown -R recruit:recruit .git
+ 1413  la ~/
+ 1414  sudo chown -R recruit:recruit ~/.npm
+ 1415  sudo ng new ../memory-game
+ 1416  ls
+ 1417  la
+ 1418  ng new ../memory-game
+ 1419  ls
+ 1420  ng new ../memory-game
+ 1421  cd ..
+ 1422  mv memory-game memorygame
+ 1423  ls
+ 1424  ng new memorygame
+ 1425  la
+ 1426  clr
+ 1427  cd 
+ 1428  ..
+ 1429  ~
+ 1430  cd ~/umuzi_work/memorygame
+ 1431  la
+ 1432  ls
+ 1433  pkill sublime
+ 1434  server
+ 1435  ng serve
+ 1436  server
+ 1437  rm -h
+ 1438  rm --help
+ 1439  grep -rnw -e activation
+ 1440  grep -rnw -e imi_registration[token]
+ 1441  grep -rnw -e imi_registration
+ 1442  grep -rnw -e class="imi_item_registration_input"
+ 1443  grep -rnw -e imi_item_registration_input
+ 1444  grep -rnw -e imi_item_registration
+ 1445  grep -rnw -e license
+ 1446  grep -rnw -e activation
+ 1447  grep -rnw -e 'Personal Token'
+ 1448  grep -rnw -e "framework"
+ 1449  cd umuzi_work/memory-game
+ 1450  clr
+ 1451  cd umuzi_work/memorygame
+ 1452  cd umuzi_work/memory-game
+ 1453  clr
+ 1454  cd umuzi_work/memory-game
+ 1455  clr
+ 1456  cd umuzi_work/memorygame
+ 1457  cd umuzi_work/memory-game
+ 1458  clr
+ 1459  ng serve
+ 1460  open .
+ 1461  curl -u 'USER' https://api.github.com/sweetbeard30/repos -d '{"name":"memorygame"}'
+ 1462  curl -u 'sweetbeard30' https://api.github.com/sweetbeard30/repos -d '{"name":"memorygame"}'
+ 1463  sudo torsocks apt install apt-transport-https
+ 1464  sudo -i
+ 1465  cat /etc/*-release
+ 1466  curl https://deb.torproject.org/torproject.org/A3C4F0F979CAA22CDBA8F512EE8CBC9E886DDD89.asc | gpg --import
+ 1467  gpg --export A3C4F0F979CAA22CDBA8F512EE8CBC9E886DDD89 | apt-key add -
+ 1468  update
+ 1469  sudo rm /etc/apt/sources.list.d/tor.list
+ 1470  clr
+ 1471  clr
+ 1472  cd umuzi_work/memorygame
+ 1473  open .
+ 1474  ls
+ 1475  cd src
+ 1476  ls
+ 1477  cd wget
+ 1478  ls
+ 1479  torsocks wget -m http://dreadditevelidot.onion/
+ 1480  sublime *
+ 1481  cd /home/recruit/.config/sublime-text-3/Packages
+ 1482  zip -r packages.zip ../Packages
+ 1483  du -sh
+ 1484  du -sh .
+ 1485  la
+ 1486  mv packages.zip ~/Downloads/sublime-packages.zip
+ 1487  exit
+ 1488  la app
+ 1489  la environments
+ 1490  la
+ 1491  la assets
+ 1492  tree
+ 1493  install tree
+ 1494  tree
+ 1495  tree --help
+ 1496  tree
+ 1497  ..
+ 1498  tree
+ 1499  .
+ 1500  alias | grep forward
+ 1501  alias | grep foward
+ 1502  alias | grep back
+ 1503  alias | grep cd
+ 1504  9
+ 1505  1
+ 1506  clr
+ 1507  la ../e2e
+ 1508  cd umuzi_work/memorygame
+ 1509  cat package.json
+ 1510  tree
+ 1511  cat app/app.module.ts
+ 1512  clr
+ 1513  cd umuzi_work/memorygame
+ 1514  cat src/environments/environment.prod.ts
+ 1515  cat src/environments/environment.ts
+ 1516  clr
+ 1517  firedev dreadditevelidot.onion/index.html
+ 1518  open .
+ 1519  rm -rf dreadditevelidot.onion
+ 1520  wget -m e robots=off http://dreadditevelidot.onion
+ 1521  torsocks wget -m e robots=off http://dreadditevelidot.onion
+ 1522  npm install -g typescript
+ 1523  sudo npm install -g typescript
+ 1524  open .
+ 1525  cd /home/recruit/umuzi_work/memorygame/src/app
+ 1526  mkdir shared styles services other
+ 1527  ls
+ 1528  cat app.component.html
+ 1529  cat app.component.ts
+ 1530  cat app-routing.module.ts
+ 1531  ls
+ 1532  cat app.component.spec.ts
+ 1533  cd umuzi_work/memorygame
+ 1534  ng test
+ 1535  update
+ 1536  cd umuzi_work/memorygame
+ 1537  cd umuzi_work/memorygame
+ 1538  whereis transmission-gtk
+ 1539  clr
+ 1540  clr
+ 1541  cd src/
+ 1542  tree
+ 1543  cat app/app.component.ts
+ 1544  cat app/app.component.html
+ 1545  cat app/app.module.ts
+ 1546  angulng serve
+ 1547  ng serve
+ 1548  cat app/app-routing.module.ts
+ 1549  clr
+ 1550  ls
+ 1551  tree
+ 1552  touch app/app.routes.ts
+ 1553  sublime app/app.routes.ts
+ 1554  pkill sublime
+ 1555  sublime app/app.routes.ts
+ 1556  cd src/
+ 1557  ls
+ 1558  cat app/app-routing.module.ts
+ 1559  clr
+ 1560  tree  src
+ 1561  cd wget/crid.co.uk
+ 1562  ttree
+ 1563  tree
+ 1564  cd ../dreadditevelidot.onion
+ 1565  ls
+ 1566  tree
+ 1567  fire
+ 1568  firedev dreadditevelidot.onion/index.html
+ 1569  firedev index.html
+ 1570  cat app/app.module.ts
+ 1571  sublime app/app.module.ts
+ 1572  cat app/app.component.ts 
+ 1573  cd ~/umuzi_work
+ 1574  cd ~/umuzi_work
+ 1575  mkdir  memgame && mv memorygam memgame && cd memgame
+ 1576  mkdir  memgame && mv memorygame memgame/front-end && cd memgame
+ 1577  mv memorygame memgame/front-end && cd memgame
+ 1578  ls
+ 1579  ls front-end
+ 1580  la ..
+ 1581  ls
+ 1582  open .
+ 1583  la front-end
+ 1584  pwd
+ 1585  cd /home/recruit/umuzi_work/memgame/front-end
+ 1586  cd ~/umuzi_work
+ 1587  cd /home/recruit/umuzi_work/memgame/front-end
+ 1588  cd ~/umuzi_work
+ 1589  cd ..
+ 1590  ..
+ 1591  zip -r memgame.zip memgame
+ 1592  open ../..
+ 1593  systemctl hibernate
+ 1594  work
+ 1595  clr
+ 1596  mkdir cmdafrica && cd cmdafrica
+ 1597  yarn add express pug body-parse --dev
+ 1598  la
+ 1599  touch server.js
+ 1600  mkdir views
+ 1601  mkdir assets
+ 1602  clr
+ 1603  la
+ 1604  clr
+ 1605  pkill sublime
+ 1606  sublime
+ 1607  clr
+ 1608  vim server.js
+ 1609  cat server.js
+ 1610  sublime server.js
+ 1611  cd cmdafrica
+ 1612  touch views/index.pug
+ 1613  cd views
+ 1614  cd wget/crid.co.uk
+ 1615  cd ~/wget/crid.co.uk
+ 1616  la
+ 1617  rm cmd.zip
+ 1618  ls
+ 1619  open .
+ 1620  clr
+ 1621  update
+ 1622  zip -r cmdafrica.zip ../cmdafrica
+ 1623  ls
+ 1624  open .
+ 1625  zip -r crid.zip ../crid.co.uk
+ 1626  systemctl hibernate
+ 1627  ifconfig | grep mac
+ 1628  ifconfig
+ 1629  cd Desktop
+ 1630  cd ../Documents
+ 1631  ls
+ 1632  unzip cmd.zip
+ 1633  ls
+ 1634  ls cmdafrica
+ 1635  sudo unzip cmd.zip
+ 1636  cd cmdafrica
+ 1637  ls
+ 1638  node --watch * server.js
+ 1639  nodemon --watch * server.js
+ 1640  yarn in
+ 1641  yarn install
+ 1642  sudo npm install
+ 1643  sudo chown -R recruit:recruit *
+ 1644  sudo chown -R recruit:recruit ../cmdafrica
+ 1645  sudo chmod -R 755 ../cmdafrica
+ 1646  nodemon --watch * server.js
+ 1647  cd Documents/cmdafrica
+ 1648  cat server.js
+ 1649  cd ..
+ 1650  cd /media/recruit/TOSHIBA/
+ 1651  ls
+ 1652  unzip cmd.zip
+ 1653  clr
+ 1654  ls
+ 1655  rm cmd.zip
+ 1656  cd -rf cmdafrica
+ 1657  sudo rm  -rf cmdafrica
+ 1658  ls
+ 1659  open .
+ 1660  cd ~/umuzi_work/cmdafrica
+ 1661  clr
+ 1662  nodemon --watch * server.js
+ 1663  clr
+ 1664  npm install
+ 1665  nodemon --watch * server.js
+ 1666  node server.js
+ 1667  nodemon --watch * server.js
+ 1668  nodemon --watch views server.js
+ 1669  cd tmp
+ 1670  ls
+ 1671  la
+ 1672  mkdir test &^ cd test
+ 1673  cd test
+ 1674  mkdir uploads
+ 1675  touch index.js
+ 1676  sublime index.js
+ 1677  ls
+ 1678  open .
+ 1679  touch uploads/file{1..9}
+ 1680  ls uploads
+ 1681  open .
+ 1682  cd test
+ 1683  cd ~/umuzi_work/cmdafrica
+ 1684  cd ~/umuzi_work/cmdafrica
+ 1685  clr
+ 1686  nodemon --watch views server.js
+ 1687  mkdir uploads
+ 1688  sudo chmod 755 uploads
+ 1689  mv uploads messages
+ 1690  ls
+ 1691  ls messages
+ 1692  cd ~/umuzi_work/cmdafrica
+ 1693  clr
+ 1694  open .
+ 1695  clr
+ 1696  ls
+ 1697  ls assets/images
+ 1698  cd ~/umuzi_work/cmdafrica
+ 1699  cd views
+ 1700  ls
+ 1701  grep -rnw -e "CRID"
+ 1702  sublime post-training-activities.pug
+ 1703  grep -rnw -e "CRID"
+ 1704  open
+ 1705  open .
+ 1706  sudo rm  -rf about-us/
+ 1707  grep -rnw -e "CRID"
+ 1708  sublime download.pug
+ 1709  fgf
+ 1710  grep -rnw -e "CRID"
+ 1711  sublime post-training-activities.pug
+ 1712  sublime general-management-training-programmes.pug
+ 1713  sublime vital-information-for-prospective-delegates.pug
+ 1714  sublime trainning-needs-analysis.pug
+ 1715  sublime vital-information-for-prospective-delegates.pug
+ 1716  sublime post-training-activities.pug
+ 1717  sublime general-management-training-programmes.pug
+ 1718  sublime sustainable-development-training-programmes.pug
+ 1719  sublime what-we-believe.pug
+ 1720  sublime why-crid.pug
+ 1721  sublime development-partnership-2.pug
+ 1722  sublime services.pug
+ 1723  sublime programmes.pug
+ 1724  sublime index.pug
+ 1725  ls | grep why
+ 1726  mv why-crid.pug why-cmd.pug
+ 1727  sublime why-cmd.pug
+ 1728  clear
+ 1729  sublime our-directors.pug
+ 1730  sublime application-form.pug
+ 1731  sublime testimonials.html.pug
+ 1732  sublime upcoming-training.pug
+ 1733  sublime who-we-are.pug
+ 1734  sublime download-2.pug
+ 1735  sublime current-programme.pug
+ 1736  sublime networking.pug
+ 1737  sublime about-us.pug
+ 1738  ls
+ 1739  rm -rf comments
+ 1740  sublime accreditation-new.pug
+ 1741  sublime what-we-do.pug
+ 1742  sublime download.pug
+ 1743  clr
+ 1744  grep -rnw -e "CRID"
+ 1745  zip -rf cmd.zip ../cmdafrica
+ 1746  zip -r cmd.zip ../cmdafrica
+ 1747  open .
+ 1748  sudo apt list transmission
+ 1749  +
+ 1750  +sudo crontab -e
+ 1751  sudo crontab -e
+ 1752  grep -rnw -e ".pdf"
+ 1753  grep -rnw -e "pdf"
+ 1754  clr
+ 1755  clr
+ 1756  grep -rnw -e "pdf"
+ 1757  ls
+ 1758  mv 'views - Copy' ../views
+ 1759  ls
+ 1760  cmd
+ 1761  cat ~/.zshrc
+ 1762  server
+ 1763  find . -type f -not -iname node_modules/ -exec zip -r cmd.zip  ../cmdafrica/
+ 1764  find . -type f -not -iname node_modules -exec zip -r cmd.zip  ../cmdafrica/
+ 1765  find . -type f -not -iname "node_modules" -exec zip -r cmd.zip  ../cmdafrica/
+ 1766  find . -type f -not -iname "node_modules" -exec cp -rf ../cmdafrica/ cmd/
+ 1767  open .
+ 1768  zip -r cmd.zip ../cmdafrica
+ 1769  open .
+ 1770  server
+ 1771  clr
+ 1772  nodemon --watch views server.js
+ 1773  alias | grep net
+ 1774  server
+ 1775  echo "alias cmd ='cmd@89.47.162.244'" >> ~/.zshrc
+ 1776  source .zshrc
+ 1777  source
+ 1778  clr
+ 1779  source ~/.zshrc
+ 1780  clr
+ 1781  nano ~/.zshrc
+ 1782  source ~/.zshrc
+ 1783  cat ~/.zshrc | grep cmd
+ 1784  cat ~/.zshrc | grep root
+ 1785  cat ~/.zshrc | grep cmd
+ 1786  nano ~/.zshrc
+ 1787  source ~/.zshrc
+ 1788  cat ~/.zshrc | grep root
+ 1789  source ~/.zshrc
+ 1790  cmd
+ 1791  cd views
+ 1792  ls
+ 1793  cat current-programme.pug
+ 1794  sublime current-programme.pug
+ 1795  open .
+ 1796  ls
+ 1797  sublime accreditation-new.pug
+ 1798  ls
+ 1799  ls Public
+ 1800  cd Public
+ 1801  wget -r -A .js .css http://crid/co.uk
+ 1802  wget -r -A .js http://crid/co.uk
+ 1803  wget -r -A .js .css http://crid.co.uk
+ 1804  open crid.co.uk
+ 1805  work
+ 1806  mkdir cadafrica
+ 1807  cd cadafrica
+ 1808  wget -m --no-check-certificates https://cadafrica.wordpress.com/
+ 1809  wget -m --no-check-certificate https://cadafrica.wordpress.com/
+ 1810  cd cadafrica.wordpress.com
+ 1811  ls
+ 1812  firedev index.html
+ 1813  ls gallery
+ 1814  cd gallery
+ 1815  ls
+ 1816  open .
+ 1817  pkill firefox
+ 1818  sudo crontab -e
+ 1819  work
+ 1820  work
+ 1821  sudo -i
+ 1822  ls
+ 1823  cd memgame
+ 1824  ls
+ 1825  ls front-end
+ 1826  work
+ 1827  cd ~/umuzi_work/memgame/front-end
+ 1828  work
+ 1829  cd ~/umuzi_work/memgame/front-end
+ 1830  ls
+ 1831  ng serve
+ 1832  cd ~/umuzi_work/memgame/front-end
+ 1833  tree
+ 1834  ls
+ 1835  tree src
+ 1836  sublime src/app/app.routes.ts
+ 1837  cd src/app/
+ 1838  work
+ 1839  sudo rm -rf memgame/front-end
+ 1840  cd memgame
+ 1841  ls
+ 1842  ng new frontend
+ 1843  work
+ 1844  cd memgame
+ 1845  ls
+ 1846  cd memgame
+ 1847  ng new frontend
+ 1848  pkill
+ 1849  pkill 
+ 1850  sudo pkill firefox
+ 1851  sudo crontab -e
+ 1852  shutdown -r
+ 1853  sudo reboot
+ 1854  sudo crontab -e
+ 1855  alias | grep open
+ 1856  whereis terminator
+ 1857  work
+ 1858  cd memgame/
+ 1859  ls
+ 1860  ng new frontend
+ 1861  nano ~/.zshrc
+ 1862  shutdown now
+ 1863  wok
+ 1864  work
+ 1865  ls
+ 1866  alias | grep xclip
+ 1867  paste ~/tmp/index.js
+ 1868  cd ~/tmp
+ 1869  cat index.js
+ 1870  mkdir uplaods
+ 1871  mv uplaods uploads
+ 1872  sudo chmod 755 uploads
+ 1873  node index.js
+ 1874  sublime index.js
+ 1875  ls
+ 1876  ls uploads
+ 1877  open .
+ 1878  node index.js
+ 1879  tmp
+ 1880  cd ~/tmp/uploads
+ 1881  cat visitor_2.json
+ 1882  rm *
+ 1883  ls
+ 1884  rm *
+ 1885  ls
+ 1886  rm *
+ 1887  ls
+ 1888  cat visitor_3.json
+ 1889  rm *
+ 1890  cat visitor_1.json
+ 1891  ls
+ 1892  cat visitor_1.json
+ 1893  rm *
+ 1894  ls
+ 1895  cat visitor_1.json
+ 1896  ls
+ 1897  rm *
+ 1898  ls
+ 1899  cat visitor_1.json
+ 1900  rm *
+ 1901  cat visitor_1.json
+ 1902  rm *
+ 1903  ls
+ 1904  open .
+ 1905  ls
+ 1906  touch visitor_{2..8}.json
+ 1907  ls
+ 1908  sudo pkill transmission-gt 
+ 1909  sudo apt-get dist-upgrade
+ 1910  cat .zshrc
+ 1911  man htop
+ 1912  vim .oh-my-zsh/themes/agnoster.zsh-theme
+ 1913  la
+ 1914  cd .config
+ 1915  ls
+ 1916  alias
+ 1917  cat .zshrc
+ 1918  Is
+ 1919  pwd
+ 1920  Is
+ 1921  ls
+ 1922  ls/data
+ 1923  ls
+ 1924  ls /data
+ 1925  ls /etc/perl
+ 1926  ls /
+ 1927  pwd
+ 1928  mkdir Learning_unix
+ 1929  l
+ 1930  cd Learning_unix
+ 1931  ~/Learning_unix mkdir Outer_directory
+ 1932  ~
+ 1933  Learning_unix mkdir Outer_directory
+ 1934  ~/
+ 1935  ~/Learning_unix mkdir Outer _directory
+ 1936  ~/Learning_unix mkdir Outer_directory
+ 1937  mkdir -p Outer_directory/Inner_direxctory
+ 1938  ~/Learning_unix/ Outer_directory/Inner_directory cd /
+ 1939  pwd
+ 1940  mkdir outer
+ 1941  cd outer
+ 1942  outer
+ 1943  mkdir inner
+ 1944  ls
+ 1945  cd ..
+ 1946  cd ../
+ 1947  pwd
+ 1948  ls
+ 1949  pwd
+ 1950  cd Learning_unix
+ 1951  cd Learning_unix/
+ 1952  pwd
+ 1953  cd ~/Learning_unix
+ 1954  cd inner
+ 1955  cd ~/inner
+ 1956  cd
+ 1957  ls
+ 1958  cd inner /
+ 1959  pwd
+ 1960  mkdir inner
+ 1961  ls
+ 1962  echo $SHELL
+ 1963  cd
+ 1964  man ls
+ 1965  bash ls
+ 1966  ls
+ 1967  sudo apt-get update
+ 1968  sudo apt-get upgrade
+ 1969  pwd
+ 1970  ls
+ 1971  cd
+ 1972  cd Learning_unix/
+ 1973  cd inner/
+ 1974  cd outer
+ 1975  cd outer/ 
+ 1976  mkdir outer
+ 1977  cd outer
+ 1978  mkdir inner
+ 1979  cd inner
+ 1980  cd Learning_unix/
+ 1981  ls
+ 1982  cd ../
+ 1983  cd inner
+ 1984  cd outer
+ 1985  cd inner
+ 1986  cd ../..
+ 1987  cd
+ 1988  pwd
+ 1989  ls
+ 1990  cd inner
+ 1991  cd outer
+ 1992  cd ../
+ 1993  pwd
+ 1994  cd outer
+ 1995  cd ../
+ 1996  ls
+ 1997  pwd
+ 1998  ls
+ 1999  ls /data
+ 2000  cd db
+ 2001  db
+ 2002  ls 
+ 2003  ls
+ 2004  cd Learning_unix
+ 2005  ls Learning_unix
+ 2006  mkdir inner
+ 2007  cd inner
+ 2008  cd outer
+ 2009  ls Learning_unix
+ 2010  cd outer
+ 2011  mkdir inner
+ 2012  ls inner
+ 2013  mkdir inner/outer
+ 2014  cd oute\\n
+ 2015  cd outer
+ 2016  ls
+ 2017  echo pie
+ 2018  ls inne
+ 2019  ls inner
+ 2020  ls outer
+ 2021  echo inner
+ 2022  echo outert
+ 2023  ls inner
+ 2024  cd ../
+ 2025  pwd
+ 2026  ls
+ 2027  mkdir outer
+ 2028  ls outer
+ 2029  cd outer
+ 2030  cd ../
+ 2031  cd ./
+ 2032  ls inner
+ 2033  cd Learning_unix
+ 2034  ls Learning_unix
+ 2035  mkdir Learning_unix
+ 2036  ls Learning_unix
+ 2037  mkdir oute
+ 2038  ls Learning_unix
+ 2039  cd Learning_unix
+ 2040  pwd
+ 2041  ls
+ 2042  ls /data
+ 2043  ls /etc/perl
+ 2044  LS
+ 2045  ls
+ 2046  pwd
+ 2047  ls
+ 2048  ls /etc
+ 2049  ls /etc/pe
+ 2050  ls /etc/perl
+ 2051  ls
+ 2052  pwd
+ 2053  cd Learning_unix
+ 2054  ls
+ 2055  cd Learning_unix/inner
+ 2056  cd inner
+ 2057  ls Outer
+ 2058  pwd
+ 2059  cd inner
+ 2060  cd Outer_directory
+ 2061  pwd
+ 2062  ls
+ 2063  ls / 
+ 2064  ls /etc/perl
+ 2065  pwd
+ 2066  mkdir learning_unix
+ 2067  ls   
+ 2068  cd learning_unix
+ 2069  mkdir outer
+ 2070  cd outer
+ 2071  mkdir inner 
+ 2072  cd inner/
+ 2073  pwd
+ 2074  cd home
+ 2075  cd /
+ 2076  cd home
+ 2077  cd recruit
+ 2078  pwd
+ 2079  cd learning_unix/
+ 2080  cd ../
+ 2081  ../..
+ 2082  pwd
+ 2083  cd home
+ 2084  pwd
+ 2085  cd home
+ 2086  cd recruit
+ 2087  pwd
+ 2088  cd ..
+ 2089  pwd
+ 2090  cd recruit
+ 2091  cd outer
+ 2092  pwd
+ 2093  cd ..
+ 2094  pwd
+ 2095  cd outer
+ 2096  pwd
+ 2097  cd ../..
+ 2098  cd  
+ 2099  pwd
+ 2100  cd outer
+ 2101  pwd
+ 2102  cd .. 
+ 2103  pwd
+ 2104  cd learning_unix/
+ 2105  pwd
+ 2106  cd ../../tmp
+ 2107  cd /tmp
+ 2108  pwd
+ 2109  cd home
+ 2110  cd ../ 
+ 2111  pwd
+ 2112  cd recruit
+ 2113  cd home
+ 2114  cd ../
+ 2115  pwd
+ 2116  cd home
+ 2117  cd recruit/learning_unix
+ 2118  pwd
+ 2119  cd ../
+ 2120  pwd
+ 2121  cd home/recruit/learning_unix
+ 2122  pwd
+ 2123  cd learning_unix/
+ 2124  pwd
+ 2125  cd ../home
+ 2126  pwd
+ 2127  cd ../../tmp
+ 2128  cd /tmp
+ 2129  pwd
+ 2130  cd home 
+ 2131  cd/home
+ 2132  cd /home 
+ 2133  cd /recruit
+ 2134  pwd
+ 2135  cd recruit 
+ 2136  pwd
+ 2137  cd /learning_unix
+ 2138  pwd
+ 2139  cd learning_unix/
+ 2140  pwd
+ 2141  cd ../../tmp
+ 2142  pwd
+ 2143  cd /tmp
+ 2144  cd ../ 
+ 2145  pwd
+ 2146  cd / 
+ 2147  cd  
+ 2148  pwd
+ 2149  cd /
+ 2150  pwd
+ 2151  cd ~ 
+ 2152  pwd
+ 2153  cd
+ 2154  cd . 
+ 2155  pwd
+ 2156  cd .
+ 2157  ls
+ 2158  pwd
+ 2159  cd
+ 2160  pwd
+ 2161  cd .
+ 2162  cd ~/lerarning_unix
+ 2163  cd /
+ 2164  pwd
+ 2165  cd ~/lerarning_unix
+ 2166  cd ~/learning_unix
+ 2167  pwd
+ 2168  cd ~/outer
+ 2169  pwd
+ 2170  cd outer
+ 2171  cd .. 
+ 2172  pwd
+ 2173  cd /learning_unix
+ 2174  cd learning_unix/
+ 2175  pwd
+ 2176  cd ~/learning_unix
+ 2177  cd ~/learning_unix/outer
+ 2178  pwd
+ 2179  cd /home
+ 2180  pwd
+ 2181  cd /home/recruit 
+ 2182  cd ..
+ 2183  pwd
+ 2184  cd learning_unix/
+ 2185  cd -p learning_unix
+ 2186  cd ~/learning_unix 
+ 2187  ls ..
+ 2188  ls ../
+ 2189  pwd
+ 2190  ls ../..
+ 2191  ls ~ 
+ 2192  ls -l /home
+ 2193  ls -l /recruit
+ 2194  ls -l recruit
+ 2195  pwd
+ 2196  ls .. 
+ 2197  pwd
+ 2198  ls ../
+ 2199  pwd
+ 2200  ls -l
+ 2201  ls -R
+ 2202  ls --help
+ 2203  pwd
+ 2204  ls -l -r -t
+ 2205  pwd
+ 2206  cd learning_unix 
+ 2207  ls -l  
+ 2208  pwd
+ 2209  cd learning_unix 
+ 2210  pwd
+ 2211  ls --help
+ 2212  man ls
+ 2213  man rmdir
+ 2214  pwd
+ 2215  rmdir outer
+ 2216  pwd
+ 2217  cd / 
+ 2218  rmdir 
+ 2219  pwd
+ 2220  cd ~ 
+ 2221  pwd
+ 2222  cd ~/learning_unix 
+ 2223  pwd
+ 2224  cd outer
+ 2225  pwd
+ 2226  rmdir inner/
+ 2227  cd inner
+ 2228  pwd
+ 2229  rmdir outer
+ 2230  cd learning_unix 
+ 2231  pwd
+ 2232  cd ..
+ 2233  rmdir inner
+ 2234  pwd
+ 2235  cd outer
+ 2236  pwd
+ 2237  rmdir outer
+ 2238  cd learning_unix 
+ 2239  pwd
+ 2240  cd ..
+ 2241  rmdir inner
+ 2242  rmdir outer
+ 2243  pwd
+ 2244  ls
+ 2245  cd ~ 
+ 2246  pwd
+ 2247  cd learning_unix
+ 2248  cd ..
+ 2249  cd learning_unix
+ 2250  touch heaven.txt
+ 2251  touch earth.txt
+ 2252  ls
+ 2253  mkdir temp
+ 2254  pwd
+ 2255  mv heaven.txt
+ 2256  cd temp
+ 2257  mv heaven.txt
+ 2258  cd ..
+ 2259  pwd
+ 2260  mv 
+ 2261  mv heaven.txt/
+ 2262  pwd
+ 2263  mv heaven.txt temp/
+ 2264  mv earth.txt temp/
+ 2265  ls temp
+ 2266  pwd
+ 2267  mv --help
+ 2268  cd temp
+ 2269  pwd
+ 2270  mv *ea* learning_unix
+ 2271  pwd
+ 2272  ls
+ 2273  mv *ea* learning_unix/
+ 2274  ls temp
+ 2275  pwd
+ 2276  ls temp/
+ 2277  pwd
+ 2278  ls
+ 2279  mv *ea* learning_unix 
+ 2280  pwd
+ 2281  ls
+ 2282  mv *ea* learning_unix 
+ 2283  mv *ea* learning_unix/
+ 2284  mv heaven.txt learning_unix
+ 2285  ls learning_unix
+ 2286  pwd
+ 2287  cd ..
+ 2288  ls
+ 2289  cd temp
+ 2290  pwd
+ 2291  ls
+ 2292  ls temp/
+ 2293  ls temp 
+ 2294  pwd
+ 2295  cd ..
+ 2296  pwd
+ 2297  cd ~/ 
+ 2298  pwd
+ 2299  cd /
+ 2300  cd temp
+ 2301  cd temp/
+ 2302  cd ~/learning_unix/ 
+ 2303  pwd
+ 2304  ls
+ 2305  ls temp 
+ 2306  touch rags
+ 2307  ls
+ 2308  mv rags temp/riches
+ 2309  ls
+ 2310  ls temp
+ 2311  pwd
+ 2312  ls learning_unix
+ 2313  pwd
+ 2314  ls
+ 2315  ls temp
+ 2316  ls learning_unix
+ 2317  cd l
+ 2318  cd learning_unix
+ 2319  mkdir learning_unix
+ 2320  pwd
+ 2321  cd temp/
+ 2322  ls temp
+ 2323  ls temp/
+ 2324  pwd
+ 2325  cd..
+ 2326  cd ..
+ 2327  ls learning_unix
+ 2328  mkdir temp 
+ 2329  find temp
+ 2330  mv temp learning_unix
+ 2331  ls learning_unix
+ 2332  ls temp/
+ 2333  mv earth.txt temp/
+ 2334  find earth.txt
+ 2335  ls temp/
+ 2336  ls learning_unix
+ 2337  ls
+ 2338  ls learning_unix
+ 2339  cd temp/
+ 2340  find temp
+ 2341  pwd
+ 2342  mkdir temp 
+ 2343  pwd
+ 2344  ls learning_unix
+ 2345  cd temp/
+ 2346  ls temp/
+ 2347  find temp
+ 2348  find temp/
+ 2349  pwd
+ 2350  find earth.txt
+ 2351  find heaven.txt
+ 2352  mkdir temp 
+ 2353  ls
+ 2354  ls temp/
+ 2355  touch earth.txt
+ 2356  touch heaven.txt
+ 2357  ls temp/
+ 2358  ls learning_unix
+ 2359  pwd
+ 2360  cd ..
+ 2361  pwd
+ 2362  ls
+ 2363  ls learning_unix
+ 2364  ls temp/
+ 2365  rm temp
+ 2366  rmdir temp
+ 2367  ls temp/
+ 2368  pwd
+ 2369  ls learning_unix
+ 2370  ls temp/
+ 2371  mv earth.txt learning_unix/
+ 2372  pwd
+ 2373  cd temp/
+ 2374  mv earth.txt learning_unix/
+ 2375  pwd
+ 2376  ls
+ 2377  cd ..
+ 2378  ls
+ 2379  ls learning_unix
+ 2380  cd ..
+ 2381  ls
+ 2382  cd learning_unix
+ 2383  ls
+ 2384  ls temp/
+ 2385  rm temp
+ 2386  ls
+ 2387  cd ..
+ 2388  rm temp
+ 2389  cd learning_unix
+ 2390  ls learning_unix
+ 2391  rmdir temp
+ 2392  cd temp
+ 2393  rmdir temp
+ 2394  ls learning_unix
+ 2395  cd ..
+ 2396  ls
+ 2397  cd temp
+ 2398  ls
+ 2399  pwd
+ 2400  cd ..
+ 2401  ls learning_unix
+ 2402  ls temp/
+ 2403  touch rags
+ 2404  ls
+ 2405  ls learning_unix
+ 2406  ls temp
+ 2407  mv rags temp/riches
+ 2408  ls temp
+ 2409  mkdir temp2
+ 2410  ls
+ 2411  mv temp2 temp
+ 2412  ls temp
+ 2413  pwd
+ 2414  mkdir temp3
+ 2415  cd temp
+ 2416  ls temp
+ 2417  cd temp
+ 2418  pwd
+ 2419  ls
+ 2420  cd ..
+ 2421  ls
+ 2422  mv temp3 temp2
+ 2423  ls temp2
+ 2424  ls
+ 2425  ls learning_unix
+ 2426  ls temp 
+ 2427  ls temp2
+ 2428  find temp3
+ 2429  pwd
+ 2430  ls learning_unix
+ 2431  ls temp
+ 2432  ls temp2
+ 2433  cd temp2
+ 2434  ls
+ 2435  ls temp2/
+ 2436  ls temp2
+ 2437  pwd
+ 2438  cd ,,
+ 2439  cd ..
+ 2440  cd temp2
+ 2441  ls
+ 2442  locate temp3
+ 2443  pwd
+ 2444  cd /tmp
+ 2445  ls
+ 2446  mv temp3 temp2
+ 2447  ls
+ 2448  /tmp
+ 2449  ls
+ 2450  ls /tmp
+ 2451  pwd
+ 2452  cd ..
+ 2453  pwd
+ 2454  cd learning_unix
+ 2455  cd var
+ 2456  ls
+ 2457  ls tmp
+ 2458  pwd
+ 2459  cd ../
+ 2460  pwd
+ 2461  cd ~ 
+ 2462  pwd
+ 2463  cd learning_unix
+ 2464  ls learning_unix
+ 2465  ls temp 
+ 2466  ls temp2
+ 2467  ls temp 
+ 2468  ls -l temp
+ 2469  ls -l4 temp
+ 2470  ls temp
+ 2471  ls temp2
+ 2472  ls -l temp2
+ 2473  ls temp 
+ 2474  pwd
+ 2475  mkdir temp3
+ 2476  ls  
+ 2477  cd /tmp
+ 2478  ls
+ 2479  mv temp3 learning_unix/temp2/
+ 2480  mv temp3 temp2/
+ 2481  pwd
+ 2482  cd learning_unix
+ 2483  cd ..
+ 2484  pwd
+ 2485  ~/Learning_unix/ Outer_directory/Inner_directory cd /
+ 2486  ~
+ 2487  cd learning_unix
+ 2488  ls learning_unix
+ 2489  ls temp
+ 2490  ls temp2
+ 2491  ls learning_unix
+ 2492  ls
+ 2493  ls -l
+ 2494  cd /tmp
+ 2495  cd .. mv temp3 temp2/
+ 2496  cd l
+ 2497  cd learning_unix
+ 2498  pwd
+ 2499  cd ..
+ 2500  pwd
+ 2501  cd ~/learning_unix/ 
+ 2502  ls
+ 2503  ls temp2
+ 2504  ls learning_unix
+ 2505  ls temp 
+ 2506  ls temp2
+ 2507  pwd
+ 2508  cd /tmp
+ 2509  .. cd temp mv temp2 temp3/
+ 2510  pwd
+ 2511  cd .. cd temp mv temp3 temp2
+ 2512  cd learning_unix cd temp mv temp3 temp2
+ 2513  ls --help
+ 2514  cd learning_unix | cd temp | mv temp3 temp2/
+ 2515  cd .. | pwd
+ 2516  cd ~/learning_unix/ | mv temp3 temp2
+ 2517  pwd
+ 2518  cd learning_unix  
+ 2519  pwd
+ 2520  cd learning_unix  
+ 2521  cd ../
+ 2522  cdrom
+ 2523  cd ~ 
+ 2524  cd learning_unix  
+ 2525  cd /tmp
+ 2526  cd ~/learning_unix | cd temp |  mv temp3 temp2
+ 2527  pwd
+ 2528  cd learning_unix  
+ 2529  pwd
+ 2530  ls learning_unix
+ 2531  ls temp
+ 2532  cd temp2
+ 2533  ls temp2
+ 2534  pwd
+ 2535  ls -l temp2
+ 2536  cd ..
+ 2537  ls learning_unix
+ 2538  ls temp 
+ 2539  find temp3
+ 2540  ls -l learning_unix
+ 2541  ls learning_unix
+ 2542  ls
+ 2543  ls temp3
+ 2544  ls temp2
+ 2545  cd temp2
+ 2546  ls temp2
+ 2547  find heaven.txt
+ 2548  cd learning_unix  
+ 2549  pwd
+ 2550  find heaven.txt
+ 2551  cd temp3
+ 2552  pwd
+ 2553  ls
+ 2554  cd ..
+ 2555  pwd
+ 2556  ls
+ 2557  rm -i temp
+ 2558  rmdir -i temp
+ 2559  rmdir temp
+ 2560  rmdir temp2
+ 2561  find temp2
+ 2562  rmdir temp3
+ 2563  pwd
+ 2564  ls
+ 2565  rmdir temp 
+ 2566  ls temp 
+ 2567  pwd
+ 2568  ls
+ 2569  ls learning_unix
+ 2570  cd temp
+ 2571  ls
+ 2572  pwd
+ 2573  mkdir temp3
+ 2574  ls
+ 2575  rmdir temp3
+ 2576  ls
+ 2577  pwd
+ 2578  cd learning_unix  
+ 2579  pwd
+ 2580  cd ..
+ 2581  pwd
+ 2582  mkdir temp3
+ 2583  pwd
+ 2584  ls
+ 2585  cd /tmp
+ 2586  ls
+ 2587  cd /home/recruit | cd lpwd
+ 2588  pwd
+ 2589  cd /home/recruit/learning_unix | mv temp3 temp2/
+ 2590  pwd
+ 2591  cd learning_unix  
+ 2592  pwd
+ 2593  cd /
+ 2594  pwd
+ 2595  cd /tmp
+ 2596  cd /learning_unix
+ 2597  pwd
+ 2598  cd ~
+ 2599  pwd
+ 2600  cd learning_unix  
+ 2601  ls
+ 2602  cd temp
+ 2603  pwd
+ 2604  ls
+ 2605  rm -i earth.txt heaven.txt riches
+ 2606  ls
+ 2607  rmdir temp2/temp3
+ 2608  pwd
+ 2609  ls
+ 2610  rmdir temp2/ 
+ 2611  rmdir temp 
+ 2612  pwd
+ 2613  cd ..
+ 2614  ls
+ 2615  rmdir temp 
+ 2616  pwd
+ 2617  ls
+ 2618  rmdir temp3
+ 2619  pwd
+ 2620  touch file1
+ 2621  pwd
+ 2622  cp file1 file2
+ 2623  ls
+ 2624  ls learning_unix
+ 2625  rmdir temp 
+ 2626  pwd
+ 2627  ls learning_unix
+ 2628  rm temp
+ 2629  rmdir temp 
+ 2630  ls temp 
+ 2631  pwd
+ 2632  cd temp
+ 2633  ls
+ 2634  rm learning_unix
+ 2635  cd ..
+ 2636  pwd
+ 2637  rmdir learning_unix
+ 2638  cd learning_unix  
+ 2639  ls
+ 2640  ls learning_unix
+ 2641  rm temp
+ 2642  pwd
+ 2643  rmdir temp 
+ 2644  touch ~/file3
+ 2645  ls ~
+ 2646  cp ~/file3
+ 2647  pwd
+ 2648  cp ~/file3 .
+ 2649  ls
+ 2650  ls .
+ 2651  ls ./
+ 2652  rm file*
+ 2653  pwd
+ 2654  ls
+ 2655  rmdir learning_unix
+ 2656  ls
+ 2657  cd learning_unix  
+ 2658  ls
+ 2659  cd temp
+ 2660  ls
+ 2661  rm *e*
+ 2662  ls temp 
+ 2663  pwd
+ 2664  ls
+ 2665  cd..
+ 2666  cd ..
+ 2667  rmdir temp 
+ 2668  cd ..
+ 2669  rmdir learning_unix
+ 2670  pwd
+ 2671  ls
+ 2672  echo "call me Ishmael"
+ 2673  ed "call me Ishmael" "call me Ishmael."
+ 2674  pwd
+ 2675  cd learning_unix  
+ 2676  ls
+ 2677  echo "call me Ishmael."
+ 2678  echo "call me Ishmael." > opening_lines.txt
+ 2679  ls
+ 2680  less opening_lines.txt
+ 2681  echo "the primoroses were over." >> opening_lines.txt
+ 2682  cat opening_lines.txt
+ 2683  cat opening_lines.txt > file_copt.txt
+ 2684  rm f
+ 2685  rm file_copy.txt
+ 2686  pwd
+ 2687  rm file_copt.txt
+ 2688  ls
+ 2689  ls -l
+ 2690  wc opening_lines.txt
+ 2691  wc -l opening_lines.txt
+ 2692  nano opening_lines.txt
+ 2693  echo $USER
+ 2694  echo $HOME 
+ 2695  echo $PATH
+ 2696  nano opening_lines.txt
+ 2697  grep was opening_lines.txt
+ 2698  grep -v was  opening_lines.txt
+ 2699  grep all openging_lines.txt
+ 2700  grep all opening_lines.txt
+ 2701  grep -i all opening_lines.txt
+ 2702  grep in opening_lines.txt
+ 2703  grep -w in opening_lines.txt
+ 2704  grep -w in o..  opening_lines.txt
+ 2705  grep -w o..  opening_lines.txt
+ 2706  grep [aeiou] opening_lines.txt
+ 2707  grep [aeiou]t opening_lines.txt
+ 2708  grep -w -i [
+ 2709  grep -w -i [aeiou]t opening_lines.txt
+ 2710  cd curl
+ 2711  cd
+ 2712  pwd
+ 2713  curl https://raw.githubusercontent.com/Blahah/command_line_bootcamp/master/testfiles/grades.txt > grades.txt\nless testfile.vcf
+ 2714  cd ^[[200~curl https://raw.githubusercontent.com/Blahah/command_line_bootcamp/master/testfiles/grades.txt > grades.txt
+ 2715  curl https://raw.githubusercontent.com/Blahah/command_line_bootcamp/master/testfiles/grades.txt > grades.txt\nless testfile.vcf
+ 2716  cd  curl https://raw.githubusercontent.com/Blahah/command_line_bootcamp/master/testfiles/grades.txt > grades.txt\nless testfile.vcf
+ 2717  mkdir workspace
+ 2718  cd
+ 2719  pwd
+ 2720  locate workspace
+ 2721  cd ../
+ 2722  find workspace
+ 2723  mkdir workspace
+ 2724  ls
+ 2725  pwd
+ 2726  mkdir workspace
+ 2727  find workspace
+ 2728  cd workspace
+ 2729  ls
+ 2730  touch README.md
+ 2731  cp README.md CHANGELOG.md
+ 2732  touch exercise.md
+ 2733  mv exercise.md /tmp
+ 2734  touch umuzi.md
+ 2735  touch recruits.md
+ 2736  touch cohort.md
+ 2737  nano umuzi.md
+ 2738  nano recruits.md
+ 2739  nano cohort.md
+ 2740  nano umuzi.md recruit.md cohort.md
+ 2741  nano recruits.md
+ 2742  cat umuzi.md recruits.md cohort.md 
+ 2743  cat umuzi.md recruits.md cohort.md > summary.md
+ 2744  cat summary.md
+ 2745  echo summary.md >> "The End"
+ 2746  cat summary.md >> "The End"
+ 2747  cat summary.md  
+ 2748  nano summary.md
+ 2749  cat summary.md  
+ 2750  locate umuzi
+ 2751  locate umuzi > search_result.md
+ 2752  locate search_result.md
+ 2753  cat search_result.md
+ 2754  ls search_result.md
+ 2755  ls
+ 2756  cd documents
+ 2757  pwd
+ 2758  locate document
+ 2759  cd document 
+ 2760  cd documents
+ 2761  find documents
+ 2762  cd Documents/cmdafrica
+ 2763  cd Documents 
+ 2764  ls
+ 2765  cd ../
+ 2766  ls
+ 2767  cd Documents 
+ 2768  touch pad.md
+ 2769  find documents
+ 2770  cd Documents 
+ 2771  ls
+ 2772  cd Desktop
+ 2773  cd ~
+ 2774  cd Desktop
+ 2775  ls
+ 2776  cp Documents/pad.md . 
+ 2777  pwd
+ 2778  cp ~/Documents/pad.md
+ 2779  cp ~/Documents/pad.md .
+ 2780  ls
+ 2781  mkdir work 
+ 2782  cp ~/Documents/pad.md Desktop/work/pad_copy.md
+ 2783  ls
+ 2784  mv pad.md pad_copy.md
+ 2785  ls
+ 2786  locate documentupdatedb
+ 2787  locate updatedb.
+ 2788  locate pad_copy.md
+ 2789  cd ..
+ 2790  locate pad_copy.md
+ 2791  pwd
+ 2792  cd - 
+ 2793  pwd
+ 2794  cd  curl https://raw.githubusercontent.com/Blahah/command_line_bootcamp/master/testfiles/grades.txt > grades.txt\nless testfile.vcf
+ 2795  pwd
+ 2796  locate *pdf
+ 2797  cd documents
+ 2798  pwd
+ 2799  cd ~/Documents
+ 2800  locate *pdf
+ 2801  find 
+ 2802  find *pdf
+ 2803  find --help
+ 2804  man find
+ 2805  find ~/Documents
+ 2806  find "*.pdf"
+ 2807  find / -name "*.pdf"
+ 2808  cp / -name "*.pdf" >> Desktop
+ 2809  cp / -name "*.pdf" Desktop
+ 2810  find / -name "*.pdf" >> search_result.md
+ 2811  pwd
+ 2812  ls -l
+ 2813  ls -l -t
+ 2814  ls -l -t -r
+ 2815  ls --help
+ 2816  find . -mtime -1 -print
+ 2817  nano my_bio.md
+ 2818  mkdir my_files
+ 2819  mv my_bio.md my_files/
+ 2820  mv my_bio.md > my_files
+ 2821  pwd
+ 2822  ls
+ 2823  find my_bio.md
+ 2824  cd Desktop
+ 2825  nano my_bio.md
+ 2826  ls
+ 2827  mv my_bio.md  my_files/
+ 2828  ls
+ 2829  ls my-files
+ 2830  cd my_files
+ 2831  ls
+ 2832  cd git-basic-exercises
+ 2833  pwd
+ 2834  mkdir  git-basic-exercises
+ 2835  cd git-basic-exercises
+ 2836  ls -a
+ 2837  git init
+ 2838  ls -a
+ 2839  git s
+ 2840  git status
+ 2841  mkdir  git-basic-exercises
+ 2842  cd git-basic-exercises
+ 2843  ls -a
+ 2844  git init
+ 2845  ls -a
+ 2846  git status
+ 2847  touch README.md
+ 2848  ls -a
+ 2849  git status
+ 2850  git log
+ 2851  git add .
+ 2852  ls -a
+ 2853  git add README.md
+ 2854  git status
+ 2855  git reset -- README.md
+ 2856  git status
+ 2857  git reset -- README.md
+ 2858  git add README.md
+ 2859  git status
+ 2860  git commit  -m "initial commit"
+ 2861  git log
+ 2862  nano README.md
+ 2863  cat README.md
+ 2864  git checkout
+ 2865  git branch
+ 2866  git branch milkshake-flavours
+ 2867  git branch  
+ 2868  git branch
+ 2869  git branch milkshake-flavours
+ 2870  git checkout
+ 2871  git checkout milkshake-flavours
+ 2872  nano milkshakes.md
+ 2873  git status
+ 2874  git checkout master
+ 2875  nano README.md
+ 2876  git stats
+ 2877  git status
+ 2878  git commit -m "second commit"
+ 2879  git commit  -m "second commit" 
+ 2880  nano README.md
+ 2881  git commit  -m "second commit" 
+ 2882  git add README.md
+ 2883  git commit  -m "second commit" 
+ 2884  nano README.md
+ 2885  git add README.md
+ 2886  git commit  -m "third commit" 
+ 2887  cat README.md
+ 2888  git log
+ 2889  git checkout f7c48f033cb1a2b0f880c5a9e64a7edfe8ebaa3cmaster
+ 2890  git log
+ 2891  git checkout f7c48f033cb1a2b0f880c5a9e64a7edfe8ebaa3cmaster
+ 2892  git log
+ 2893  git checkout f7c48f033cb1a2b0f880c5a9e64a7edfe8ebaa3c
+ 2894  cat README.md
+ 2895  git checkout master
+ 2896  cat README.md
+ 2897  git branch milkshake-flavours
+ 2898  git checkout milkshake-flavours
+ 2899  nano README.md
+ 2900  nano milkshakes.md
+ 2901  git status
+ 2902  git commit  -m "added initial flavours"
+ 2903  git checkout milkshake-flavours
+ 2904  cat milkshake-flavours
+ 2905  git branch milkshake-flavours
+ 2906  git milkshake-flavours
+ 2907  cat milkshakes.md
+ 2908  nano milkshakes.md
+ 2909  git commit  -m "added initial flavours"
+ 2910  git add milkshakes.md
+ 2911  git commit  -m "added initial flavours"
+ 2912  git log
+ 2913  git checkout master
+ 2914  ls -a
+ 2915  git branch master
+ 2916  git status
+ 2917  git checkout milkshake-flavours
+ 2918  git branch  
+ 2919  git checkout master
+ 2920  git branch history
+ 2921  git log 
