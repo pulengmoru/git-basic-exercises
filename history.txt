@@ -2919,3 +2919,175 @@
  2919  git checkout master
  2920  git branch history
  2921  git log 
+ 2922  history > history.txt
+ 2923  git status
+ 2924  git add history.text
+ 2925  git add history.txt
+ 2926  git commit  -m "added history"
+ 2927  git log 
+ 2928  git checkout milkshake aster
+ 2929  git checkout milkshake  
+ 2930  git checkout milkshake-flavours
+ 2931  git log 
+ 2932  git branch milkshake  
+ 2933  git log
+ 2934  git branch milkshake-flavours
+ 2935  git log
+ 2936  nano README.md
+ 2937  git commit  -m "random readme changes"
+ 2938  git add README.md
+ 2939  git commit  -m "random readme changes"
+ 2940  cat README.md
+ 2941  git checkout history
+ 2942  cat README.md
+ 2943  rm README.md echo "booya" > README.md
+ 2944  rm README.md | echo "booya" > README.md
+ 2945  git add README.md
+ 2946  git commit  -m "rewrote readme"
+ 2947  git checkout master
+ 2948  git log
+ 2949  git checkout milkshake-flavours
+ 2950  ls  
+ 2951  git log
+ 2952  git checkout history
+ 2953  ls
+ 2954  ls -a
+ 2955  ls
+ 2956  git checkout mater 
+ 2957  git checkout master 
+ 2958  git merge milkshake-flavours
+ 2959  ls
+ 2960  ls README.md
+ 2961  git log
+ 2962  git status
+ 2963  git add README.md
+ 2964  git commit  -m "fix merge error"
+ 2965  git merge milkshake-flavours
+ 2966  git status
+ 2967  git log
+ 2968  git merge history
+ 2969  git add README.md
+ 2970  git commit  -m "fix second  merge error"
+ 2971  git log
+ 2972  git merge history
+ 2973  git log
+ 2974  git checkout history
+ 2975  git log
+ 2976  git checkout milkshake-flavours
+ 2977  git log
+ 2978  git checkout history
+ 2979  git merge master
+ 2980  git log
+ 2981  cd ../
+ 2982  git log
+ 2983  cd ../
+ 2984  git clone https://github.com/Umuzi-org/tech-department.githttps://github.com/BoART96/stringCalculator
+ 2985  git clone https://github.com/Umuzi-org/tech-department.git 
+ 2986  git clone https://github.com/Umuzi-org/tech-department.git
+ 2987  cd
+ 2988  git clone https://github.com/Umuzi-org/tech-department.git
+ 2989  cd tech-department
+ 2990  git branch  
+ 2991  git log
+ 2992  git branch -a
+ 2993  git checkout project/git-basic-exercises
+ 2994  git checkout -b
+ 2995  git checkout -B
+ 2996  git checkout -B project/git-basic-exercises
+ 2997  git remote -v
+ 2998  git log
+ 2999  touch ignore-me.db
+ 3000  git status
+ 3001  nano gitinore
+ 3002  git status
+ 3003  git add gitinore
+ 3004  git commit  -m "ignore-me.db"
+ 3005  mkdir large-directory-that-should-be-local-only
+ 3006  cd large-directory-that-should-be-local-only
+ 3007  cd ..
+ 3008  git status
+ 3009  nano gitinore
+ 3010  git status
+ 3011  git init
+ 3012  git remote add origin https://github.com/pulengmoru/git-exercises.git
+ 3013  git add .
+ 3014  git push -u origin master
+ 3015  git remote add origin https://github.com/pulengmoru/git-exercises.git
+ 3016  git init
+ 3017  git add .
+ 3018  git commit  -m "initial commit"
+ 3019  git remote add origin https://github.com/pulengmoru/git-exercises.git
+ 3020  git push -u origin master
+ 3021  git init
+ 3022  git add .
+ 3023  git commit  -m "initial commit"
+ 3024  git remote add origin https://github.com/pulengmoru/Linux-exercise.git
+ 3025  git push -u origin master
+ 3026  git config --global user.name "Puleng Moru"
+ 3027  git config --global user.email "pulengmoru@gmail.com"
+ 3028  git log
+ 3029  mkdir git-basic-exercises
+ 3030  cd git-basic-exercises
+ 3031  ls -
+ 3032  ls -a
+ 3033  ls README.md
+ 3034  git log
+ 3035  cd git-basic-exercises
+ 3036  git init
+ 3037  la -a
+ 3038  git status
+ 3039  ls README.md
+ 3040  ls -a
+ 3041  git status
+ 3042  git log
+ 3043  git status
+ 3044  git add  
+ 3045  git add .
+ 3046  git status
+ 3047  git reset -- README.md\\ngit status
+ 3048  git add README.md
+ 3049  git commit -m "initial commit"
+ 3050  ls -a
+ 3051  ls README.md
+ 3052  git commit -m "initial commit"
+ 3053  git status
+ 3054  git init
+ 3055  git add .
+ 3056  git commit -m "initial commit"
+ 3057  sit log
+ 3058  git log
+ 3059  git status
+ 3060  git log
+ 3061  nano README.md
+ 3062  cat README.md
+ 3063  git status
+ 3064  git add .
+ 3065  git commit -m "second commit"
+ 3066  nano README.md
+ 3067  git add .
+ 3068  git commit -m "initial commit"
+ 3069  git nano
+ 3070  nano README.md
+ 3071  git add .
+ 3072  git commit -m "second commit"
+ 3073  nano README.md
+ 3074  got add .
+ 3075  git add .
+ 3076  git commit -m "third commit"
+ 3077  git log
+ 3078  git checkout commit e6995dd8edb53ac06a2a478b8460c4966961518e
+ 3079  git checkout e6995dd8edb53ac06a2a478b8460c4966961518e
+ 3080  cat README.md
+ 3081  git checkout master 
+ 3082  cat README.md
+ 3083  git branch  
+ 3084  git branch -a milkshake-flavours
+ 3085  git branch milkshake-flavours
+ 3086  git checkout milkshake-flavours 
+ 3087  nano milkshakes.md
+ 3088  git add .
+ 3089  git commit -m "added initial flavours"
+ 3090  git log
+ 3091  git checkout master 
+ 3092  git branch history
+ 3093  git log
